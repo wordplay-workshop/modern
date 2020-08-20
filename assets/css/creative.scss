@@ -6140,6 +6140,16 @@ button.bg-cfp:focus {
   background-color: #450909 !important;
 }
 
+.bg-schedule {
+  background-color: #ad5c00 !important;
+}
+
+a.bg-schedule:hover, a.bg-schedule:focus,
+button.bg-schedule:hover,
+button.bg-schedule:focus {
+  background-color: #914d00 !important;
+}
+
 .bg-warning {
   background-color: #ffc107 !important;
 }

@@ -138,4 +138,12 @@ sections:
 
       **We are hiring!!!**
 
+  - type: paragraph.html
+    section_id: schedule
+    title: Schedule
+    background_style: bg-schedule text-white
+    text: >+
+
+      **To be announced.**
+
 ---
