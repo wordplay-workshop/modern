@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: "Wordplay: When Language Meets Games (NeurIPS 2020 Workshop)"
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Official website for the Wordplay Workshop at NeurIPS 2020.
   action: # action button is optional
     label: Find Out More
     url: '#about'
