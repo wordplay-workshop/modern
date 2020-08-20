@@ -23,11 +23,11 @@ sections:
       This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A previous iteration of this workshop took place very successfully with over a hundred attendees, also at NeurIPS, in 2018 and since then the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br />
 
       We like all things:
-      - Interactive narrative: game playing RL agents, game generation, etc.
-      - Interactive language learning
-      - Natural language generation
-      - Improvisational storytelling
-      - And more! Anything you can think of that involves narrative, interactivity, and language!
+      * Interactive narrative: game playing RL agents, game generation, etc.
+      * Interactive language learning
+      * Natural language generation
+      * Improvisational storytelling
+      * And more! Anything you can think of that involves narrative, interactivity, and language!
 
       <br />
       [Check out our full version of overview](/full_overview)
