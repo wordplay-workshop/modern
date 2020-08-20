@@ -40,7 +40,7 @@ sections:
 
   - type: paragraph.html
     section_id: cfp
-    title: Call For Paper
+    title: Call For Papers
     text: >+
 
       **Submission website:** To be announced.
@@ -128,5 +128,13 @@ sections:
         text: Georgia Institute of Technology
         image: assets/img/organizers/mark.png
         url: https://eilab.gatech.edu/mark-riedl
+
+  - type: paragraph.html
+    section_id: pc
+    title: Program Committee
+    background_style: bg-dark text-white
+    text: >+
+
+      **We are hiring!!!**
 
 ---

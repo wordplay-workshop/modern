@@ -6110,13 +6110,24 @@ button.bg-info:focus {
 }
 
 .bg-organizer {
-  background-color: #3b8a4b !important;
+  background-color: #214f2b !important;
 }
 
 a.bg-organizer:hover, a.bg-organizer:focus,
 button.bg-organizer:hover,
 button.bg-organizer:focus {
-  background-color: #31733f !important;
+  background-color: #1b4023 !important;
+}
+
+
+.bg-pc {
+  background-color: #57164c !important;
+}
+
+a.bg-pc:hover, a.bg-pc:focus,
+button.bg-pc:hover,
+button.bg-pc:focus {
+  background-color: #42113a !important;
 }
 
 

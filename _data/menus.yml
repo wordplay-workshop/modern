@@ -5,8 +5,10 @@
 header:
 - title: Overview
   url: /#overview
-- title: Call For Paper
+- title: Call For Papers
   url: /#cfp
+- title: Program Committee
+  url: /#pc
 - title: Invited Speakers
   url: /#invited_speakers
 - title: Organizers
