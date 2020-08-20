@@ -42,7 +42,7 @@ sections:
   - type: paragraph.html
     section_id: cfp
     title: Call For Papers
-    background_style: bg-cfp
+    background_style: bg-info text-white
     text: >+
 
       **Submission website:** To be announced.
@@ -65,7 +65,7 @@ sections:
   - type: organizers.html
     section_id: organizers
     title: Organizers
-    background_style: bg-info text-white
+    background_style: bg-dark text-white
     members:
       - title: Prithviraj Ammanabrolu
         text: Georgia Institute of Technology
@@ -107,7 +107,7 @@ sections:
   - type: paragraph.html
     section_id: pc
     title: Program Committee
-    background_style: bg-pc
+    background_style: 
     text: >+
 
       **We are hiring!!!**
@@ -115,7 +115,7 @@ sections:
   - type: paragraph.html
     section_id: schedule
     title: Schedule
-    background_style: bg-schedule
+    background_style: bg-info text-white
     text: >+
 
       **To be announced.**
