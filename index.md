@@ -42,7 +42,7 @@ sections:
   - type: paragraph.html
     section_id: cfp
     title: Call For Papers
-    background_style: bg-cfp text-white
+    background_style: bg-cfp
     text: >+
 
       **Submission website:** To be announced.
