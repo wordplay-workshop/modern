@@ -37,7 +37,7 @@ sections:
 
       <br />
 
-      [Check out the full version of our overview!](/modern-theme/full_overview)
+      [Check out the full version of our overview!](/modern/full_overview)
 
   - type: paragraph.html
     section_id: cfp
