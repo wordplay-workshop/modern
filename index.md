@@ -54,7 +54,7 @@ sections:
         url: http://www.hyadatalab.com/
       - title: Angela Fan
         text: Facebook AI Research
-        image: assets/img/invited_speakers/angela.png
+        image: assets/img/invited_speakers/angela.jpg
         url: https://ai.facebook.com/people/angela-fan
       - title: Nanyun (Violet) Peng
         text: University of California, Los Angeles
