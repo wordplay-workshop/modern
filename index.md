@@ -92,7 +92,7 @@ sections:
   - type: organizers.html
     section_id: organizers
     title: Organizers
-    background_style: bg-organizer text-white
+    background_style: bg-organizer
     members:
       - title: Prithviraj Ammanabrolu
         text: Georgia Institute of Technology
@@ -134,7 +134,7 @@ sections:
   - type: paragraph.html
     section_id: pc
     title: Program Committee
-    background_style: bg-pc text-white
+    background_style: bg-pc
     text: >+
 
       **We are hiring!!!**
@@ -142,7 +142,7 @@ sections:
   - type: paragraph.html
     section_id: schedule
     title: Schedule
-    background_style: bg-schedule text-white
+    background_style: bg-schedule
     text: >+
 
       **To be announced.**
