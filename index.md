@@ -29,6 +29,9 @@ sections:
       - Improvisational storytelling
       - And more! Anything you can think of that involves narrative, interactivity, and language!
 
+      <br /> <br />
+      [Check out our full version of overview](/full_overview)
+
   - type: invited_speakers.html
     section_id: invited_speakers
     title: Invited Speakers
