@@ -1,7 +1,8 @@
 ---
 layout: home
 header:
-  title: "Wordplay: When Language Meets Games @ NeurIPS 2020"
+  title: "Wordplay: When Language Meets Games 
+          @ NeurIPS 2020"
   text: >
     Your one stop shop for all things interactive narrative + AI!
 
