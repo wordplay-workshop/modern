@@ -6130,6 +6130,15 @@ button.bg-pc:focus {
   background-color: #42113a !important;
 }
 
+.bg-cfp {
+  background-color: #5c0d0d !important;
+}
+
+a.bg-cfp:hover, a.bg-cfp:focus,
+button.bg-cfp:hover,
+button.bg-cfp:focus {
+  background-color: #450909 !important;
+}
 
 .bg-warning {
   background-color: #ffc107 !important;

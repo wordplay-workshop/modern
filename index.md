@@ -41,6 +41,7 @@ sections:
   - type: paragraph.html
     section_id: cfp
     title: Call For Papers
+    background_style: bg-cfp text-white
     text: >+
 
       **Submission website:** To be announced.
@@ -132,7 +133,7 @@ sections:
   - type: paragraph.html
     section_id: pc
     title: Program Committee
-    background_style: bg-dark text-white
+    background_style: bg-pc text-white
     text: >+
 
       **We are hiring!!!**
