@@ -47,7 +47,7 @@ sections:
     section_id: organizers
     title: Organizers
     background_style: bg-info text-white
-    organizers:
+    members:
       - title: Prithviraj Ammanabrolu
         text: Georgia Institute of Technology
         image: assets/img/organizers/raj.jpg
