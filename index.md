@@ -48,7 +48,7 @@ sections:
     title: Invited Speakers
     background_style: bg-info text-white
     members:
-      - title: Dafna Shahaf
+      - title: [Dafna Shahaf](http://www.hyadatalab.com/)
         text: Hebrew University of Jerusalem
         image: assets/img/invited_speakers/dafna.jpg
         url: http://www.hyadatalab.com/
