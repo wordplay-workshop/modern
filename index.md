@@ -52,25 +52,37 @@ sections:
         text: Georgia Institute of Technology
         image: assets/img/organizers/raj.jpg
         url: http://prithvirajva.com
-      - title: Gary D. Stevens
-        text: Bass guitar.
-        image: assets/img/members/person2.jpg
-        url: '#'
-      - title: Devon J. Fletcher
-        text: Lead guitar.
-        image: assets/img/members/person3.jpg
-        url: '#'
-      - title: Todd E. Anderson
-        text: Drums, percussion.
-        image: assets/img/members/person5.jpg
-        url: '#'
-      - title: Daniel T. Riley
-        text: Musician, songwriter, producer.
-        image: assets/img/members/person6.jpg
-        url: '#'
-      - title: Ella P. Walter
-        text: PR.
-        image: assets/img/members/person7.jpg
-        url: '#'
+      - title: Matthew Hausknecht
+        text: Microsoft Research
+        image: assets/img/organizers/matthew.png
+        url: https://www.microsoft.com/en-us/research/people/mahauskn/
+      - title: Xingdi Yuan
+        text: Microsoft Research
+        image: assets/img/organizers/eric.jpg
+        url: https://xingdi-eric-yuan.github.io/
+      - title: Marc-Alexandre Côté
+        text: Microsoft Research
+        image: assets/img/organizers/marc.jpg
+        url: https://www.microsoft.com/en-us/research/people/macote/
+      - title: Adam Trischler
+        text: Microsoft Research
+        image: assets/img/organizers/adam.jpg
+        url: https://www.microsoft.com/en-us/research/people/adtrisch/
+      - title: Kory Mathewson
+        text: DeepMind
+        image: assets/img/organizers/kory.jpg
+        url: https://korymathewson.com/
+      - title: Jack Urbanek
+        text: Facebook AI Research
+        image: assets/img/organizers/jack.jpg
+        url: https://ai.facebook.com/people/jack-urbanek/
+      - title: Jason Weston
+        text: Facebook AI Research
+        image: assets/img/organizers/jason.jpg
+        url: https://www.thespermwhale.com/jaseweston/
+      - title: Mark O. Riedl
+        text: Georgia Institute of Technology
+        image: assets/img/organizers/mark.png
+        url: https://eilab.gatech.edu/mark-riedl
 
 ---
