@@ -54,7 +54,7 @@ sections:
         url: http://www.hyadatalab.com/
       - title: Angela Fan
         text: Facebook AI Research
-        image: assets/img/invited_speakers/angela2.jpg
+        image: assets/img/invited_speakers/angela.jpg
         url: https://ai.facebook.com/people/angela-fan
       - title: Nanyun (Violet) Peng
         text: University of California, Los Angeles
@@ -62,7 +62,7 @@ sections:
         url: https://vnpeng.net/
       - title: Karthik Narasimhan
         text: Princeton University
-        image: assets/img/invited_speakers/karthik2.jpg
+        image: assets/img/invited_speakers/karthik.jpg
         url: https://www.cs.princeton.edu/~karthikn/
       - title: Nick Walton
         text: Latitude - AI Dungeon
