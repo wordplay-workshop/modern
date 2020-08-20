@@ -1,52 +1,32 @@
 ---
 layout: home
 header:
-  title: "Wordplay: When Language Meets Games"
+  title: "Wordplay: When Language Meets Games @ NeurIPS 2020"
   text: >
-    Official website for the Wordplay Workshop at NeurIPS 2020.
+    Your one stop shop for all things interactive narrative + AI!
 
-    * Date and time: Full day workshop on Fri Dec 11<sup>th</sup> or Sat the 12<sup>th</sup>, TBD
-
-    * Location: The workshop will be held **virtually** due to risks and travel restrictions associated with COVID-19. See more information from the [NeurIPS website](https://neurips.cc/).
   action: # action button is optional
     label: Back to the '80s
     url: https://wordplay-workshop.github.io/
 
 
 sections:
+  - type: paragraph.html
+    section_id: overview
+    title: Overview
+    text: >+
+    
+      * Date and time: Full day workshop on Fri Dec 11<sup>th</sup> or Sat the 12<sup>th</sup>, TBD
+      * Location: The workshop will be held **virtually** due to risks and travel restrictions associated with COVID-19. See more information from the [NeurIPS website](https://neurips.cc/).
 
-  - type: portfolio.html
-    # this section has always ID 'portfolio'
-    #section_id: portfolio
-    #background_style: bg-dark
-    projects:
-      - title: Project 1
-        text: This is a very short project description.
-        # the images are located in:
-        # img/portfolio/fullsize
-        # img/portfolio/thumbnails
-        icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
-        icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
-        icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
-        icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
-        icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
-        icon: 6.jpg
-        url: '#'
+      This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A previous iteration of this workshop took place very successfully with over a hundred attendees, also at NeurIPS, in 2018 and since then the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br /> <br />
+
+      We like all things:
+      - Interactive narrative: game playing RL agents, game generation, etc.
+      - Interactive language learning
+      - Natural language generation
+      - Improvisational storytelling
+      - And more! Anything you can think of that involves narrative, interactivity, and language!
 
   - type: invited_speakers.html
     section_id: invited_speakers
