@@ -6109,6 +6109,17 @@ button.bg-info:focus {
   background-color: #117a8b !important;
 }
 
+.bg-organizer {
+  background-color: #3b8a4b !important;
+}
+
+a.bg-organizer:hover, a.bg-organizer:focus,
+button.bg-organizer:hover,
+button.bg-organizer:focus {
+  background-color: #31733f !important;
+}
+
+
 .bg-warning {
   background-color: #ffc107 !important;
 }

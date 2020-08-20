@@ -90,7 +90,7 @@ sections:
   - type: organizers.html
     section_id: organizers
     title: Organizers
-    background_style: bg-info text-white
+    background_style: bg-organizer text-white
     members:
       - title: Prithviraj Ammanabrolu
         text: Georgia Institute of Technology
