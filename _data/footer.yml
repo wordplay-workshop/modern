@@ -1,5 +1,5 @@
-copyright: '&copy; Start Bootstrap'
+# copyright: '&copy; Start Bootstrap'
 links:
-  - text: Creative
-    url: 'https://startbootstrap.com/themes/creative/'
+  - text: Contact us
+    url: 'mailto:wordplay.workshop.organizers@gmail.com'
     new_window: true

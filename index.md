@@ -1,7 +1,7 @@
 ---
 layout: home
 header:
-  title: "Wordplay: When Language Meets Games (NeurIPS 2020 Workshop)"
+  title: "Wordplay: When Language Meets Games"
   text: >
     Official website for the Wordplay Workshop at NeurIPS 2020.
   action: # action button is optional
