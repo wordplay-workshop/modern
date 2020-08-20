@@ -5,8 +5,8 @@ header:
   text: >
     Official website for the Wordplay Workshop at NeurIPS 2020.
   action: # action button is optional
-    label: Find Out More
-    url: '#about'
+    label: Hacker Theme
+    url: https://wordplay-workshop.github.io/
 
 
 sections:
