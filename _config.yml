@@ -1,5 +1,5 @@
 # Site settings
-title: "Wordplay: When Language Meets Games"
+title: "Wordplay @ NeurIPS 2020"
 description: > # this means to ignore newlines until "baseurl:"
   Official website for the Wordplay Workshop at NeurIPS 2020.
 baseurl: "/modern-theme/" # the subpath of your site, e.g. /blog/

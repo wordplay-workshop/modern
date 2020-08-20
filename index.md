@@ -30,7 +30,7 @@ sections:
       * And more! Anything you can think of that involves narrative, interactivity, and language!
 
       <br />
-      [Check out our full version of overview](/full_overview)
+      [Check out our full version of overview](/modern-theme/full_overview)
 
   - type: invited_speakers.html
     section_id: invited_speakers
