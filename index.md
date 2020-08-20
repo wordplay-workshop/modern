@@ -62,33 +62,6 @@ sections:
       The program committee will select a few papers for oral presentation.
 
 
-  - type: invited_speakers.html
-    section_id: invited_speakers
-    title: Invited Speakers
-    background_style: bg-dark text-white
-    members:
-      - title: Dafna Shahaf
-        text: Hebrew University of Jerusalem
-        image: assets/img/invited_speakers/dafna.jpg
-        url: http://www.hyadatalab.com/
-      - title: Angela Fan
-        text: Facebook AI Research
-        image: assets/img/invited_speakers/angela.jpg
-        url: https://ai.facebook.com/people/angela-fan
-      - title: Nanyun (Violet) Peng
-        text: University of California, Los Angeles
-        image: assets/img/invited_speakers/nanyun.jpg
-        url: https://vnpeng.net/
-      - title: Karthik Narasimhan
-        text: Princeton University
-        image: assets/img/invited_speakers/karthik.jpg
-        url: https://www.cs.princeton.edu/~karthikn/
-      - title: Nick Walton
-        text: Latitude - AI Dungeon
-        image: assets/img/invited_speakers/nick.jpg
-        url: https://latitude.io/
-
-
   - type: organizers.html
     section_id: organizers
     title: Organizers
@@ -146,5 +119,31 @@ sections:
     text: >+
 
       **To be announced.**
+
+  - type: invited_speakers.html
+    section_id: invited_speakers
+    title: Speakers
+    background_style: bg-dark text-white
+    members:
+      - title: Dafna Shahaf
+        text: Hebrew University of Jerusalem
+        image: assets/img/invited_speakers/dafna.jpg
+        url: http://www.hyadatalab.com/
+      - title: Angela Fan
+        text: Facebook AI Research
+        image: assets/img/invited_speakers/angela.jpg
+        url: https://ai.facebook.com/people/angela-fan
+      - title: Nanyun (Violet) Peng
+        text: University of California, Los Angeles
+        image: assets/img/invited_speakers/nanyun.jpg
+        url: https://vnpeng.net/
+      - title: Karthik Narasimhan
+        text: Princeton University
+        image: assets/img/invited_speakers/karthik.jpg
+        url: https://www.cs.princeton.edu/~karthikn/
+      - title: Nick Walton
+        text: Latitude - AI Dungeon
+        image: assets/img/invited_speakers/nick.jpg
+        url: https://latitude.io/
 
 ---
