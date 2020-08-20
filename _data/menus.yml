@@ -4,7 +4,7 @@
 # run. So please, fill in any custom menu entry here.
 header:
 - title: Overview
-  url: /overview
+  url: /#overview
 - title: Invited Speakers
   url: /#invited_speakers
 - title: Organizers
