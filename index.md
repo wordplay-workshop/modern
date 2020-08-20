@@ -17,7 +17,8 @@ sections:
     text: >+
     
       * Date and time: Full day workshop on Fri Dec 11<sup>th</sup> or Sat the 12<sup>th</sup>, TBD
-      * Location: The workshop will be held **virtually** due to risks and travel restrictions associated with COVID-19. See more information from the [NeurIPS website](https://neurips.cc/).
+
+      * Location: The workshop will be held **virtually** due to risks and travel restrictions associated with COVID-19. See more information from the [NeurIPS website](https://neurips.cc/).<br /> <br />
 
       This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A previous iteration of this workshop took place very successfully with over a hundred attendees, also at NeurIPS, in 2018 and since then the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br /> <br />
 
