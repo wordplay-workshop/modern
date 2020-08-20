@@ -43,11 +43,11 @@ sections:
         icon: 6.jpg
         url: '#'
 
-  - type: members.html
-    section_id: members
+  - type: organizers.html
+    section_id: organizers
     title: Organizers
     background_style: bg-info text-white
-    members:
+    organizers:
       - title: Prithviraj Ammanabrolu
         text: Georgia Institute of Technology
         image: assets/img/organizers/raj.jpg
