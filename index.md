@@ -109,6 +109,10 @@ sections:
     title: Program Committee
     background_style: 
     text: >+
+      * Ashutosh Adhikari (University of Waterloo)
+      * Shubham Agarwal (Heriot Watt University)
+      * Petar Veličković (DeepMind)
+      * ...
 
       **We are hiring!!!**
 
