@@ -115,6 +115,8 @@ sections:
       
       * Petar Veličković (DeepMind)
       
+      * Leo Feng (Mila)
+      
       * ...
 
       **We are hiring!!!**
