@@ -117,6 +117,8 @@ sections:
       
       * Leo Feng (Mila)
       
+      * Abhinav Gupta (Mila)
+      
       * ...
 
       **We are hiring!!!**
