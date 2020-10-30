@@ -45,11 +45,11 @@ sections:
     background_style: bg-lightdark
     text: >+
 
-      **Submission website:** [CMT](https://cmt3.research.microsoft.com/WORDPLAY2020/).
+      ~~**Submission website:** [CMT](https://cmt3.research.microsoft.com/WORDPLAY2020/).~~
 
-      **Submission deadline:** Friday, 9 October 2020 (23:59 AoE)
+      ~~**Submission deadline:** Friday, 9 October 2020 (23:59 AoE)~~
 
-      **Author notification:** Friday, 30 October 2020 (23:59 AoE)
+      ~~**Author notification:** Friday, 30 October 2020 (23:59 AoE)~~
 
       We welcome original research papers of up to 4 pages in length (not including references or supplementary materials), formatted according to [the NeurIPS 2020 style](https://nips.cc/Conferences/2020/PaperInformation/StyleFiles). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised.
       Authors have the option of submitting one supplementary manuscript containing further details of their work, it is entirely up to the reviewers to decide whether they wish to consult this additional material. <br/>
@@ -122,10 +122,6 @@ sections:
       * Zhiyu Lin (Georgia Tech)
       
       * Spencer Frazier (Georgia Tech)
-      
-      * ...
-
-      **We are hiring!!!**
 
   - type: paragraph.html
     section_id: schedule
