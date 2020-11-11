@@ -17,7 +17,7 @@ sections:
     title: Overview
     text: >+
     
-      **Date and time**: Full day workshop on Fri Dec 11<sup>th</sup> or Sat the 12<sup>th</sup>, TBD <br />
+      **Date and time**: Full day workshop on Sat the 12<sup>th</sup> <br />
 
       **Location**: The workshop will be held **virtually** due to risks and travel restrictions associated with COVID-19. See more information from the [NeurIPS website](https://neurips.cc/). <br />
 
