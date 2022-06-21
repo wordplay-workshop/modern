@@ -206,10 +206,10 @@ sections:
     title: Speakers
     background_style: bg-dark text-white
     members:
-      - title: Dawn Song
-        text: Berkeley
-        image: assets/img/invited_speakers/dawn.jpg
-        url: https://people.eecs.berkeley.edu/~dawnsong/
+      # - title: Dawn Song
+      #   text: Berkeley
+      #   image: assets/img/invited_speakers/dawn.jpg
+      #   url: https://people.eecs.berkeley.edu/~dawnsong/
       - title: Shrimai Prabhumoye
         text: Nvidia
         image: assets/img/invited_speakers/shrimai.jpg
