@@ -133,22 +133,13 @@ sections:
         text: Meta AI Research
         image: assets/img/organizers/jason.jpg
         url: https://www.thespermwhale.com/jaseweston/
-    text: The organizers want to thank Guiliang Liu and Raghuram Mandyam Annasamy for helping in the reviewing process.
 
-  # - type: paragraph.html
-  #   section_id: pc
-  #   title: Program Committee
-  #   background_style:
-  #   text: >+
-  #     * Shubham Agarwal (Heriot Watt University)
-
-  #     * Petar Veličković (DeepMind)
-
-  #     * Leo Feng (Mila)
-
-  #     * Abhinav Gupta (Mila)
-
-  #     * Rajkumar Ramamurthy (Fraunhofer IAIS)
+  - type: paragraph.html
+    section_id: pc
+    title: Reviewers
+    background_style:
+    text: >+
+      * The organizers would like to thank [Guiliang Liu](http://guiliang.me/) and [Raghuram Mandyam Annasamy](https://www.linkedin.com/in/maraghuram/) for helping us in the reviewing process.
 
   - type: schedule.html
     section_id: schedule
