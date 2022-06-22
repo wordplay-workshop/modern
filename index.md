@@ -133,7 +133,7 @@ sections:
         text: Meta AI Research
         image: assets/img/organizers/jason.jpg
         url: https://www.thespermwhale.com/jaseweston/
-      - text: The organizers want to thank Guiliang Liu and Raghuram Mandyam Annasamy for helping in the reviewing process.
+    text: The organizers want to thank Guiliang Liu and Raghuram Mandyam Annasamy for helping in the reviewing process.
 
   # - type: paragraph.html
   #   section_id: pc
