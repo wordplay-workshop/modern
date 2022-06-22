@@ -135,7 +135,7 @@ sections:
         url: https://www.thespermwhale.com/jaseweston/
 
   - type: paragraph.html
-    section_id: pc
+    section_id: reviewers
     title: Reviewers
     background_style:
     text: >+
