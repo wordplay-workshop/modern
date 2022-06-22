@@ -5,10 +5,10 @@
 header:
 - title: Overview
   url: /#overview
-- title: Call For Papers
-  url: /#cfp
-# - title: Accepted Papers
-  # url: /#accepted_papers
+# - title: Call For Papers
+#   url: /#cfp
+- title: Accepted Papers
+  url: /#accepted_papers
 - title: Organizers
   url: /#organizers
 - title: Reviewers
