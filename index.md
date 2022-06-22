@@ -39,54 +39,52 @@ sections:
 
       [Check out the full version of our overview!](/modern/full_overview)
 
-  - type: paragraph.html
-    section_id: cfp
-    title: Call For Papers
-    background_style: bg-lightdark
-    text: >+
-
-      **Submission website:** [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Wordplay).
-
-      **Submission deadline:** ~~15<sup>th</sup> May 2022 (23:59 AoE)~~ 31<sup>st</sup> May 2022 (23:59 AoE)
-
-      **Author notification:** 18<sup>th</sup> June 2022 (23:59 AoE) <br/>
-
-      We welcome original research papers ranging between **4-8** pages in length (not including references or supplementary materials), formatted according to [the NAACL 2022 style](https://github.com/acl-org/acl-style-files). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised. Authors have the option of including supplementary manuscript containing further details of their work into **the same .pdf file**, it is entirely up to the reviewers to decide whether they wish to consult this additional material. Authors are strongly encouraged to make data and code publicly available whenever possible. The accepted papers will be posted on the workshop website and will not appear in the NAACL proceedings.<br/>
-      
-      We also welcome papers that have been previously reviewed at the ACL Rolling Review system. Authors can use the commitment submission to share the link to their paper's ARR reviews. <br/>
-
-      In addition, we welcome extended abstracts of up to 2 pages that describe open problems and challenges in this area.
-      The papers will be non-archival, we welcome papers that have been published or submitted to other places.
-      However, authors are required to acknowledge their papers' original appearance in such cases. <br/>
-
-      All accepted papers and extended abstracts will be presented as posters.
-      The program committee will select a few papers for oral presentation.
-
-  # - type: paragraphs.html
-  #   section_id: accepted_papers
-  #   title: Accepted Papers
+  # - type: paragraph.html
+  #   section_id: cfp
+  #   title: Call For Papers
   #   background_style: bg-lightdark
-  #   texts:
-  #     - >+
-  #       ### Poster Session 1 (10:20 – 11:05 EST)
-  #         * [Benchmarking Imitation and Reinforcement Learning for serious language-oriented video games](https://wordplay-workshop.github.io/modern/assets/pdfs/2.pdf)
-  #         * [Controlled Affective Text Generation](https://wordplay-workshop.github.io/modern/assets/pdfs/8.pdf)
-  #         * [NLPGym - A toolkit for evaluating RL agents on Natural Language Processing Tasks](https://wordplay-workshop.github.io/modern/assets/pdfs/13.pdf)
-  #         * [Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents](https://wordplay-workshop.github.io/modern/assets/pdfs/12.pdf)
-  #         * [NERDSearch: Using Familiar Gameplay Mechanics for Linguistic Annotation](https://wordplay-workshop.github.io/modern/assets/pdfs/15.pdf)
-  #         * [I love your chain mail! Making knights smile in a fantasy game world: Open-domain goal-oriented dialogue agents](https://wordplay-workshop.github.io/modern/assets/pdfs/4.pdf)
-  #         * [STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation](https://wordplay-workshop.github.io/modern/assets/pdfs/6.pdf)
-  #     - >+
-  #       ### Poster Session 2 (16:45 – 17:30 EST)
-  #         * [Interactive Fiction Game Playing as Multi-Paragraph Reading Comprehension with Reinforcement Learning](https://wordplay-workshop.github.io/modern/assets/pdfs/3.pdf)
-  #         * [Deriving Commonsense Reasoning Evaluation from Interactive Fiction Games](https://wordplay-workshop.github.io/modern/assets/pdfs/9.pdf)
-  #         * [Process-Level Representation of Scientific Protocols with a Text-Based Game Annotation Interface](https://wordplay-workshop.github.io/modern/assets/pdfs/10.pdf) (Talk)
-  #         * [Towards Emotion-Aware Storytelling Using Reinforcement Learning](https://wordplay-workshop.github.io/modern/assets/pdfs/1.pdf) (Talk)
-  #         * [Playing Text-Based Games with Common Sense](https://wordplay-workshop.github.io/modern/assets/pdfs/11.pdf) (Talk)
-  #         * [Semantic Chat: Enabling Greater Believability through Voice Avatars in Multiplayer and Story-Driven Games](https://wordplay-workshop.github.io/modern/assets/pdfs/14.pdf)
-  #     - >+
-  #       ### Talk Only
-  #         * [The Game Engineer’s Challenge: Generalizing Language Abstractly And Realizing It Concretely](https://wordplay-workshop.github.io/modern/assets/pdfs/5.pdf) (Talk)
+  #   text: >+
+
+  #     **Submission website:** [OpenReview](https://openreview.net/group?id=aclweb.org/NAACL/2022/Workshop/Wordplay).
+
+  #     **Submission deadline:** ~~15<sup>th</sup> May 2022 (23:59 AoE)~~ 31<sup>st</sup> May 2022 (23:59 AoE)
+
+  #     **Author notification:** 18<sup>th</sup> June 2022 (23:59 AoE) <br/>
+
+  #     We welcome original research papers ranging between **4-8** pages in length (not including references or supplementary materials), formatted according to [the NAACL 2022 style](https://github.com/acl-org/acl-style-files). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised. Authors have the option of including supplementary manuscript containing further details of their work into **the same .pdf file**, it is entirely up to the reviewers to decide whether they wish to consult this additional material. Authors are strongly encouraged to make data and code publicly available whenever possible. The accepted papers will be posted on the workshop website and will not appear in the NAACL proceedings.<br/>
+
+  #     We also welcome papers that have been previously reviewed at the ACL Rolling Review system. Authors can use the commitment submission to share the link to their paper's ARR reviews. <br/>
+
+  #     In addition, we welcome extended abstracts of up to 2 pages that describe open problems and challenges in this area.
+  #     The papers will be non-archival, we welcome papers that have been published or submitted to other places.
+  #     However, authors are required to acknowledge their papers' original appearance in such cases. <br/>
+
+  #     All accepted papers and extended abstracts will be presented as posters.
+  #     The program committee will select a few papers for oral presentation.
+
+  - type: paragraphs.html
+    section_id: accepted_papers
+    title: Accepted Papers
+    background_style: bg-lightdark
+    texts:
+      - >+
+        ### Long Papers
+          * [A Systematic Survey of Text Worlds as Embodied Natural Language Environments](https://wordplay-workshop.github.io/modern/pdfs/3.pdf)
+          * [Dungeons and Dragons as a Dialogue Challenge for Artificial Intelligence](https://wordplay-workshop.github.io/modern/pdfs/4.pdf)
+          * [A Minimal Computational Improviser Based on Oral Thought](https://wordplay-workshop.github.io/modern/pdfs/5.pdf)
+          * [Craft an Iron Sword: Dynamically Generating Interactive Game Characters by Prompting Large Language Models Tuned on Code](https://wordplay-workshop.github.io/modern/pdfs/6.pdf)
+          * [A Sequence Modelling Approach to Question Answering in Text-Based Games](https://wordplay-workshop.github.io/modern/pdfs/8.pdf)
+          * [Instruction Following in Text-Based Games](https://wordplay-workshop.github.io/modern/pdfs/9.pdf)
+          * [Using Language Models to Convert Between Natural Language and Game Commands](https://wordplay-workshop.github.io/modern/pdfs/10.pdf)
+          * [Modeling Perspective-Dependent Ambiguity in Collaborative Dialogue](https://wordplay-workshop.github.io/modern/pdfs/12.pdf)
+      - >+
+        ### Short Papers
+          * [Towards Knowledge-Graph Constrained Generation for Text Adventure Games](https://wordplay-workshop.github.io/modern/pdfs/7.pdf)
+          * [Learning Neuro-Symbolic World Models for Text-Based Game Playing Agents](https://wordplay-workshop.github.io/modern/pdfs/14.pdf)
+      - >+
+        ### Extended Abstracts
+          * [Automatic Exploration of Textual Environments with Language-Conditioned Autotelic Agents](https://wordplay-workshop.github.io/modern/pdfs/11.pdf)
+          * [Challenges in Explainability and Knowledge Extraction](https://wordplay-workshop.github.io/modern/pdfs/13.pdf)
 
   - type: organizers.html
     section_id: organizers
@@ -143,55 +141,33 @@ sections:
 
   - type: schedule.html
     section_id: schedule
-    title: Schedule - TBD
+    title: Schedule (Pacific Time)
     background_style: bg-lightdark
     events:
-      # - time: 09:00&nbsp;&ndash;&nbsp;09:10
-      #   title: "Opening Remarks"
-      # - time: 09:10&nbsp;&ndash;&nbsp;09:50
-      #   title: "Invited Talk - From Ground Truth to Grounded Truth - Dafna Shahaf"
-      # - time: 09:50&nbsp;&ndash;&nbsp;10:00
-      #   title: "Live QA - Dafna Shahaf"
-      # - time: 10:00&nbsp;&ndash;&nbsp;10:20
-      #   title: "Contributed talk - Process-Level Representation of Scientific Protocols with a Text-Based Game Annotation Interface - Ronen Tamari"
-      # - time: 10:20&nbsp;&ndash;&nbsp;11:05
-      #   title: "Parallel Poster Session 1 - [Gather Town](https://neurips.gather.town/app/jbqfdRliOOk4rAwy/Wordplay)"
-      # - time: 11:07&nbsp;&ndash;&nbsp;11:09
-      #   title: "Speaker intro - Angela Fan"
-      # - time: 11:09&nbsp;&ndash;&nbsp;11:32
-      #   title: "Invited talk - LIGHT: Language in Games with Humans and Text - Angela Fan"
-      # - time: 11:32&nbsp;&ndash;&nbsp;11:40
-      #   title: "Live QA - Angela Fan"
-      # - time: 11:40&nbsp;&ndash;&nbsp;12:00
-      #   title: "Contributed talk - The Game Engineer's Challenge: Generalizing and Grounding Language Abstractly and Concretely - Catherine Wong"
-      # - time: 12:00&nbsp;&ndash;&nbsp;13:00
-      #   title: "Lunch Break"
-      # - time: 13:00&nbsp;&ndash;&nbsp;13:02
-      #   title: "Speaker intro - Karthik Narasimhan"
-      # - time: 13:02&nbsp;&ndash;&nbsp;13:47
-      #   title: "Invited talk - Bringing Back Text Understanding into Text-based Games - Karthik Narasimhan"
-      # - time: 13:47&nbsp;&ndash;&nbsp;13:55
-      #   title: "Live QA - Karthik Narasimhan"
-      # - time: 13:55&nbsp;&ndash;&nbsp;14:15
-      #   title: "Contributed talk - Towards Emotion-Aware Storytelling Using Reinforcement Learning - Faeze Brahman"
-      # - time: 14:15&nbsp;&ndash;&nbsp;14:17
-      #   title: "Speaker Intro - Nanyun Peng"
-      # - time: 14:17&nbsp;&ndash;&nbsp;15:02
-      #   title: "Invited talk - Creative Language Generation: Stories, Sarcasms, and Similes - Nanyun Peng"
-      # - time: 15:02&nbsp;&ndash;&nbsp;15:10
-      #   title: "Live QA - Nanyun Peng"
-      # - time: 15:10&nbsp;&ndash;&nbsp;15:30
-      #   title: "Coffee Break 2"
-      # - time: 15:30&nbsp;&ndash;&nbsp;15:32
-      #   title: "Speaker Intro - Nick Walton"
-      # - time: 15:32&nbsp;&ndash;&nbsp;16:17
-      #   title: "Invited talk - AI powered games that enable unlimited creativity in infinite worlds - Nick Walton"
-      # - time: 16:17&nbsp;&ndash;&nbsp;16:25
-      #   title: "Live QA - Nick Walton"
-      # - time: 16:25&nbsp;&ndash;&nbsp;16:45
-      #   title: "Contributed talk - Playing Text-Based Games with Common Sense - Sahith Dambekodi"
-      # - time: 16:45&nbsp;&ndash;&nbsp;17:30
-      #   title: "Parallel Poster Session 2 - [Gather Town](https://neurips.gather.town/app/jbqfdRliOOk4rAwy/Wordplay)"
+      - time: 08:30&nbsp;&ndash;&nbsp;08:40
+        title: "Opening Remarks"
+      - time: 08:40&nbsp;&ndash;&nbsp;09:25
+        title: "Invited Talk 1"
+      - time: 09:25&nbsp;&ndash;&nbsp;10:00
+        title: "Poster Session 1"
+      - time: 10:00&nbsp;&ndash;&nbsp;10:30
+        title: "Break"
+      - time: 10:30&nbsp;&ndash;&nbsp;11:15
+        title: "Invited Talk 2"
+      - time: 11:15&nbsp;&ndash;&nbsp;12:00
+        title: "Invited Talk 3"
+      - time: 12:00&nbsp;&ndash;&nbsp;13:30
+        title: "Lunch Break"
+      - time: 13:30&nbsp;&ndash;&nbsp;14:15
+        title: "Invited Talk 4"
+      - time: 14:15&nbsp;&ndash;&nbsp;15:00
+        title: "Invited Talk 5"
+      - time: 15:00&nbsp;&ndash;&nbsp;15:05
+        title: "Closing Remarks"
+      - time: 15:05&nbsp;&ndash;&nbsp;15:30
+        title: "Break"
+      - time: 15:30&nbsp;&ndash;&nbsp;16:00
+        title: "Poster Session 2"
 
   - type: invited_speakers.html
     section_id: invited_speakers
