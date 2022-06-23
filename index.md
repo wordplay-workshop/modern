@@ -108,9 +108,9 @@ sections:
         image: assets/img/organizers/ash.jpg
         url: https://ashutosh-adhikari.github.io/
       - title: Matthew Hausknecht
-        text: Microsoft Research
+        text: Argo AI
         image: assets/img/organizers/matthew.png
-        url: https://www.microsoft.com/en-us/research/people/mahauskn/
+        url: https://mhauskn.github.io/
       - title: Kory Mathewson
         text: DeepMind
         image: assets/img/organizers/kory.jpg
