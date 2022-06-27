@@ -102,7 +102,7 @@ sections:
         image: assets/img/invited_speakers/shrimai.jpg
         url: https://www.cs.cmu.edu/~sprabhum/
       - title: Tim Rocktäschel
-        text: University College London & Meta AI Research
+        text: University College London & Deepmind
         image: assets/img/invited_speakers/tim.jpg
         url: https://rockt.github.io/
       - title: Hal Daumé III
