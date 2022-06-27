@@ -64,7 +64,7 @@ sections:
 
   - type: schedule.html
     section_id: schedule
-    title: Schedule (Pacific Time)
+    title: Schedule - tentative (Pacific Time)
     background_style: bg-lightdark
     events:
       - time: 08:30&nbsp;&ndash;&nbsp;08:40
