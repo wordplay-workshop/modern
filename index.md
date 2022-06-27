@@ -19,7 +19,7 @@ sections:
 
       **Date and time**: Full day workshop on July 14<sup>th</sup> <br />
 
-      **Location**: [NAACL hybrid workshop](https://2022.naacl.org/program/). <br />
+      **Location**: "Room 501 - Chiwawa (Virtual link: TBD). <br />"
 
       This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018 and NeurIPS 2020. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br />
 
@@ -61,6 +61,62 @@ sections:
 
   #     All accepted papers and extended abstracts will be presented as posters.
   #     The program committee will select a few papers for oral presentation.
+
+  - type: schedule.html
+    section_id: schedule
+    title: Schedule (Pacific Time)
+    background_style: bg-lightdark
+    events:
+      - time: 08:30&nbsp;&ndash;&nbsp;08:40
+        title: "Opening Remarks"
+      - time: 08:40&nbsp;&ndash;&nbsp;09:25
+        title: "Keynote 1 - Text Toys and Glitch Poetics - Lynn Cherny"
+      - time: 09:25&nbsp;&ndash;&nbsp;10:00
+        title: "Poster Session 1"
+      - time: 10:00&nbsp;&ndash;&nbsp;10:30
+        title: "Break"
+      - time: 10:30&nbsp;&ndash;&nbsp;11:15
+        title: "Keynote 2 - Knowledge Intensive Reinforcement Learning - Tim Rocktäschel"
+      - time: 11:15&nbsp;&ndash;&nbsp;12:00
+        title: "Keynote 3 - Training Agents to Learn to Ask for Help in Virtual Environments - Hal Daumé III"
+      - time: 12:00&nbsp;&ndash;&nbsp;13:30
+        title: "Lunch Break"
+      - time: 13:30&nbsp;&ndash;&nbsp;14:15
+        title: "Keynote 4 - Controllable Text Generation for Interactive Virtual Environments - Shrimai Prabhumoye"
+      - time: 14:15&nbsp;&ndash;&nbsp;15:00
+        title: "Keynote 5 - ScienceWorld: Is your Agent Smarter than a 5th Grader? - Peter Jansen"
+      - time: 15:00&nbsp;&ndash;&nbsp;15:05
+        title: "Closing Remarks"
+      - time: 15:05&nbsp;&ndash;&nbsp;15:30
+        title: "Break"
+      - time: 15:30&nbsp;&ndash;&nbsp;16:00
+        title: "Poster Session 2"
+
+  - type: invited_speakers.html
+    section_id: invited_speakers
+    title: Speakers
+    background_style: bg-dark text-white
+    members:
+      - title: Shrimai Prabhumoye
+        text: Nvidia
+        image: assets/img/invited_speakers/shrimai.jpg
+        url: https://www.cs.cmu.edu/~sprabhum/
+      - title: Tim Rocktäschel
+        text: University College London & Meta AI Research
+        image: assets/img/invited_speakers/tim.jpg
+        url: https://rockt.github.io/
+      - title: Hal Daumé III
+        text: University of Maryland & Microsoft Research
+        image: assets/img/invited_speakers/hal.png
+        url: http://hal3.name/
+      - title: Peter Jansen
+        text: University of Arizona
+        image: assets/img/invited_speakers/peter.jpg
+        url: http://cognitiveai.org/
+      - title: Lynn Cherny
+        text: GhostWeather
+        image: assets/img/invited_speakers/lynn.jpg
+        url: http://www.ghostweather.com/
 
   - type: paragraphs.html
     section_id: accepted_papers
@@ -138,61 +194,5 @@ sections:
     background_style:
     text: >+
       * The organizers would like to thank [Guiliang Liu](http://guiliang.me/) and [Raghuram Mandyam Annasamy](https://www.linkedin.com/in/maraghuram/) for helping us in the reviewing process.
-
-  - type: schedule.html
-    section_id: schedule
-    title: Schedule (Pacific Time)
-    background_style: bg-lightdark
-    events:
-      - time: 08:30&nbsp;&ndash;&nbsp;08:40
-        title: "Opening Remarks"
-      - time: 08:40&nbsp;&ndash;&nbsp;09:25
-        title: "Invited Talk 1"
-      - time: 09:25&nbsp;&ndash;&nbsp;10:00
-        title: "Poster Session 1"
-      - time: 10:00&nbsp;&ndash;&nbsp;10:30
-        title: "Break"
-      - time: 10:30&nbsp;&ndash;&nbsp;11:15
-        title: "Invited Talk 2"
-      - time: 11:15&nbsp;&ndash;&nbsp;12:00
-        title: "Invited Talk 3"
-      - time: 12:00&nbsp;&ndash;&nbsp;13:30
-        title: "Lunch Break"
-      - time: 13:30&nbsp;&ndash;&nbsp;14:15
-        title: "Invited Talk 4"
-      - time: 14:15&nbsp;&ndash;&nbsp;15:00
-        title: "Invited Talk 5"
-      - time: 15:00&nbsp;&ndash;&nbsp;15:05
-        title: "Closing Remarks"
-      - time: 15:05&nbsp;&ndash;&nbsp;15:30
-        title: "Break"
-      - time: 15:30&nbsp;&ndash;&nbsp;16:00
-        title: "Poster Session 2"
-
-  - type: invited_speakers.html
-    section_id: invited_speakers
-    title: Speakers
-    background_style: bg-dark text-white
-    members:
-      # - title: Dawn Song
-      #   text: Berkeley
-      #   image: assets/img/invited_speakers/dawn.jpg
-      #   url: https://people.eecs.berkeley.edu/~dawnsong/
-      - title: Shrimai Prabhumoye
-        text: Nvidia
-        image: assets/img/invited_speakers/shrimai.jpg
-        url: https://www.cs.cmu.edu/~sprabhum/
-      - title: Tim Rocktäschel
-        text: University College London & Meta AI Research
-        image: assets/img/invited_speakers/tim.jpg
-        url: https://rockt.github.io/
-      - title: Hal Daumé III
-        text: University of Maryland & Microsoft Research
-        image: assets/img/invited_speakers/hal.png
-        url: http://hal3.name/
-      - title: Peter Jansen
-        text: University of Arizona
-        image: assets/img/invited_speakers/peter.jpg
-        url: http://cognitiveai.org/
 
 ---
