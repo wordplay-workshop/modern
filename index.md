@@ -19,7 +19,7 @@ sections:
 
       **Date and time**: Full day workshop on July 14<sup>th</sup> <br />
 
-      **Location**: "Room 501 - Chiwawa (Virtual link: TBD). <br />"
+      **Location**: Room 501 - Chiwawa (Virtual link: TBD). <br />
 
       This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018 and NeurIPS 2020. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br />
 
@@ -70,21 +70,31 @@ sections:
       - time: 08:30&nbsp;&ndash;&nbsp;08:40
         title: "Opening Remarks"
       - time: 08:40&nbsp;&ndash;&nbsp;09:25
-        title: "Keynote 1 - Text Toys and Glitch Poetics - Lynn Cherny"
+        title: "Text Toys and Glitch Poetics \n **Lynn Cherny**"
+        abstract: >+
+          Not just a bug, the glitch offers creative possibility -- especially in AI systems where we are travelers in a foggy latent space.  The glitch is usually a visual metaphor, but it is alive and well in text encodings too.  I'll talk about projects (mine and others') that explore neural spaces in poetic and game-like ways. Focusing on text play in this talk, we'll visit media collages, mistaken translations, cross-modal cutups, and the dusty bottoms of game databases in search of the uncanny glitch that make us laugh because it's true.
       - time: 09:25&nbsp;&ndash;&nbsp;10:00
         title: "Poster Session 1"
       - time: 10:00&nbsp;&ndash;&nbsp;10:30
         title: "Break"
       - time: 10:30&nbsp;&ndash;&nbsp;11:15
-        title: "Keynote 2 - Knowledge Intensive Reinforcement Learning - Tim Rocktäschel"
+        title: "Knowledge Intensive Reinforcement Learning \n **Tim Rocktäschel**"
+        abstract: >+
+          Progress in Reinforcement Learning (RL) methods goes hand-in-hand with the development of challenging environments that test the limits of current approaches. While existing RL environments are either sufficiently complex or based on fast simulation, they are rarely both these things. Moreover, research in RL has predominantly focused on environments that can be approached tabula rasa, i.e., without agents requiring transfer of any domain or world knowledge outside of the simulated environment. I will talk about the NetHack Learning Environment (NLE), a scalable, procedurally generated, stochastic, rich, and challenging environment for research based on the popular single-player terminal-based rogue-like game, NetHack. We argue that NetHack is sufficiently complex to drive long-term research on problems such as exploration, planning, skill acquisition, and language-conditioned RL, while dramatically reducing the computational resources required to gather a large amount of experience. Interestingly, this game is extremely challenging even for human players who often need many years to solve it the first time and who generally consult external natural language knowledge sources like the NetHack Wiki to improve their skills. I will cover some of our recent work on utilizing language information in this challenging environment.
       - time: 11:15&nbsp;&ndash;&nbsp;12:00
-        title: "Keynote 3 - Training Agents to Learn to Ask for Help in Virtual Environments - Hal Daumé III"
+        title: "Training Agents to Learn to Ask for Help in Virtual Environments \n **Hal Daumé III**"
+        abstract: >+
+          "Agent" has largely become synonymous with "autonomous agent", but I'll argue that scoping our study of agents to those that are fully autonomous is a mistake: instead, we should aim to train agents that can assist humans, and be assisted by humans. In line with this goal, I will describe recent and ongoing work in the space of assisted agent navigation, where agents can ask humans for help, and where they can describe their own behaviors. This talk will largely be based on joint work with Khanh Nguyen and Lingjun Zhao.
       - time: 12:00&nbsp;&ndash;&nbsp;13:30
         title: "Lunch Break"
       - time: 13:30&nbsp;&ndash;&nbsp;14:15
-        title: "Keynote 4 - Controllable Text Generation for Interactive Virtual Environments - Shrimai Prabhumoye"
+        title: "Controllable Text Generation for Interactive Virtual Environments \n **Shrimai Prabhumoye**"
+        abstract: >+
+          Since the dawn of the digital age, interactive virtual environments and electronic games have played a huge role in shaping our lives. Not only are they a source of entertainment but they also teach us important life skills such as strategic planning, collaboration, and problem solving. Therefore, online gamers expect their virtual environment to be aware of their situation (e.g., position in a game) and interact with them in natural language. In this talk, I describe novel techniques to generate text in a particular style. This talk provides an approach of generating engaging naturalistic conversation responses using knowledge generated by pre-trained language models, considering their recent success in a multitude of NLP tasks. The talk will conclude with exploring whether pretrained language models can be situated in these virtual spaces and generate dialogue in a zero-shot manner.
       - time: 14:15&nbsp;&ndash;&nbsp;15:00
-        title: "Keynote 5 - ScienceWorld: Is your Agent Smarter than a 5th Grader? - Peter Jansen"
+        title: "ScienceWorld: Is your Agent Smarter than a 5th Grader? \n **Peter Jansen**"
+        abstract: >+
+          Question answering models have rapidly increased their ability to answer natural language questions in recent years, due in large part to large pre-trained neural network models called Language Models.  These language models have felled many benchmarks, including recently achieving an "A" grade on answering standardized multiple choice elementary science exams.  But how much do these language models truly know about elementary science, and how robust is their knowledge?  In this work, we present ScienceWorld, a new benchmark to test agents' scientific reasoning abilities.  ScienceWorld is an interactive text game environment that tasks agents with performing 30 tasks drawn from the elementary science curriculum, like melting ice, building simple electrical circuits, using pollinators to help grow fruits, or understanding dominant versus recessive genetic traits.  We show that current state-of-the-art language models that can easily answer elementary science questions, such as whether a metal fork is conductive or not, struggle when tasked to conduct an experiment to test this in a grounded, interactive environment, even with substantial training data.  This presents the question of whether current models are simply retrieving answers to questions by way of observing a large number of similar input examples, or if they have learned to reason about concepts in a reusable manner.  We hypothesize that agents need to be grounded in interactive environments to achieve such reasoning abilities.  Our experiments provide empirical evidence supporting this hypothesis -- showing that a 1.5 million parameter agent trained interactively for 100k steps outperforms an 11 billion parameter model statically trained for scientific question answering and reasoning via millions of expert demonstrations.
       - time: 15:00&nbsp;&ndash;&nbsp;15:05
         title: "Closing Remarks"
       - time: 15:05&nbsp;&ndash;&nbsp;15:30
