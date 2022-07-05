@@ -67,14 +67,12 @@ sections:
     title: Schedule (Pacific Time)
     background_style: bg-lightdark
     events:
-      - time: 08:30&nbsp;&ndash;&nbsp;08:40
+      - time: 09:00&nbsp;&ndash;&nbsp;09:10
         title: "Opening Remarks"
-      - time: 08:40&nbsp;&ndash;&nbsp;09:25
+      - time: 09:10&nbsp;&ndash;&nbsp;09:55
         title: "Text Toys and Glitch Poetics \n **Lynn Cherny**"
         abstract: >+
           Not just a bug, the glitch offers creative possibility -- especially in AI systems where we are travelers in a foggy latent space.  The glitch is usually a visual metaphor, but it is alive and well in text encodings too.  I'll talk about projects (mine and others') that explore neural spaces in poetic and game-like ways. Focusing on text play in this talk, we'll visit media collages, mistaken translations, cross-modal cutups, and the dusty bottoms of game databases in search of the uncanny glitch that make us laugh because it's true.
-      - time: 09:25&nbsp;&ndash;&nbsp;10:00
-        title: "Virtual Poster Session - All posters - [GatherTown link TBD]"
       - time: 10:00&nbsp;&ndash;&nbsp;10:30
         title: "Break"
       - time: 10:30&nbsp;&ndash;&nbsp;11:15
@@ -99,7 +97,7 @@ sections:
         title: "Closing Remarks"
       - time: 15:05&nbsp;&ndash;&nbsp;15:30
         title: "Break"
-      - time: 15:30&nbsp;&ndash;&nbsp;16:00
+      - time: 15:30&nbsp;&ndash;&nbsp;16:30
         title: "Virtual Poster Session - All posters - [GatherTown link TBD]"
       - time: <b>Friday July 15<sup>th</sup></b> 15:30&nbsp;&ndash;&nbsp;16:30
         title: "Joint In-person Poster Session with Narrative Understanding workshop - Regency ballroom on the 7<sup>th</sup> floor"
