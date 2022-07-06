@@ -64,7 +64,7 @@ sections:
 
   - type: schedule.html
     section_id: schedule
-    title: Schedule (Pacific Time)
+    title: Schedule - Thursday July 14<sup>th</sup> (Pacific Time)
     background_style: bg-lightdark
     events:
       - time: 09:00&nbsp;&ndash;&nbsp;09:10
