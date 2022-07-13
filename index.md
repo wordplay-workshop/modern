@@ -66,7 +66,7 @@ sections:
 
   - type: schedule.html
     section_id: schedule
-    title: Schedule - Thursday, July 14<sup>th</sup> (Pacific Time)
+    title: Schedule - Thursday, July 14<sup>th</sup> (Pacific Time) - <a href="https://us06web.zoom.us/j/85613091112?pwd=MFJNR29xV3Nqcm1LYU5OYjBmQWd6QT09">Zoom Link</a>
     background_style: bg-lightdark
     events:
       - time: 09:00&nbsp;&ndash;&nbsp;09:10
