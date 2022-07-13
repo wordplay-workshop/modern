@@ -19,7 +19,9 @@ sections:
 
       **Date and time**: Full day workshop on July 14<sup>th</sup> <br />
 
-      **Location**: Room 501 - Chiwawa (Virtual link: [Underline](https://underline.io/events/325/sessions?eventSessionId=11181); Zoom link: TBD). <br />
+      **Location**: Room 501 - Chiwawa
+
+      **Virtual links**: [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11181); [Zoom link](https://us06web.zoom.us/j/85613091112?pwd=MFJNR29xV3Nqcm1LYU5OYjBmQWd6QT09); [GatherTown](https://app.gather.town/app/5LQQiHeAhrt5bszR/NAACL2022?spawnToken=cpu47TOFYIGy8KnK). <br />
 
       This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018 and NeurIPS 2020. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br />
 
