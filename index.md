@@ -100,7 +100,7 @@ sections:
       - time: 15:05&nbsp;&ndash;&nbsp;15:30
         title: "Break"
       - time: 15:30&nbsp;&ndash;&nbsp;16:30
-        title: "Virtual Poster Session - All posters - [GatherTown link TBD]"
+        title: "Virtual Poster Session - All posters - <a href='https://app.gather.town/app/5LQQiHeAhrt5bszR/NAACL2022?spawnToken=cpu47TOFYIGy8KnK'>GatherTown</a>"
       - time: <b>Friday July 15<sup>th</sup></b> 15:30&nbsp;&ndash;&nbsp;16:30
         title: "Joint In-person Poster Session with Narrative Understanding workshop - Regency ballroom on the 7<sup>th</sup> floor"
 
