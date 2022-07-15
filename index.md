@@ -21,7 +21,7 @@ sections:
 
       **Location**: Room 501 - Chiwawa
 
-      **Virtual links**: [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11181); [Zoom link](https://us06web.zoom.us/j/85613091112?pwd=MFJNR29xV3Nqcm1LYU5OYjBmQWd6QT09); [GatherTown](https://app.gather.town/app/5LQQiHeAhrt5bszR/NAACL2022?spawnToken=cpu47TOFYIGy8KnK). <br />
+      **Virtual links**: [Underline.io](https://underline.io/events/325/sessions?eventSessionId=11181) <br />
 
       This workshop will focus on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018 and NeurIPS 2020. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br />
 
@@ -66,7 +66,7 @@ sections:
 
   - type: schedule.html
     section_id: schedule
-    title: Schedule - Thursday, July 14<sup>th</sup> (Pacific Time) - <a href="https://us06web.zoom.us/j/85613091112?pwd=MFJNR29xV3Nqcm1LYU5OYjBmQWd6QT09">Zoom Link</a>
+    title: Schedule - Thursday, July 14<sup>th</sup> (Pacific Time)
     background_style: bg-lightdark
     events:
       - time: 09:00&nbsp;&ndash;&nbsp;09:10
@@ -100,7 +100,7 @@ sections:
       - time: 15:05&nbsp;&ndash;&nbsp;15:30
         title: "Break"
       - time: 15:30&nbsp;&ndash;&nbsp;16:30
-        title: "Virtual Poster Session - All posters - <a href='https://app.gather.town/app/5LQQiHeAhrt5bszR/NAACL2022?spawnToken=cpu47TOFYIGy8KnK'>GatherTown</a>"
+        title: "Virtual Poster Session on GatherTown - All posters"
       - time: <b>Friday July 15<sup>th</sup></b> 15:30&nbsp;&ndash;&nbsp;16:30
         title: "Joint In-person Poster Session with Narrative Understanding workshop - Regency ballroom on the 7<sup>th</sup> floor"
 
