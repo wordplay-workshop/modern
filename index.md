@@ -66,7 +66,7 @@ sections:
 
   - type: schedule.html
     section_id: schedule
-    title: Schedule - Thursday, July 14<sup>th</sup> (Pacific Time) - [Live Session Recording](https://us06web.zoom.us/rec/play/K2d98lzc0iZG3Lo7nCF-0Ny2pI2UQOPsMjNmgvMaX56Yao3LgE-rzGuyvW5dOtI0lik5TcuijwVzgLZv.jIVR459jJ-jKPwXT)
+    title: Schedule - Thursday, July 14<sup>th</sup> (Pacific Time) - <a href="https://us06web.zoom.us/rec/play/K2d98lzc0iZG3Lo7nCF-0Ny2pI2UQOPsMjNmgvMaX56Yao3LgE-rzGuyvW5dOtI0lik5TcuijwVzgLZv.jIVR459jJ-jKPwXT">Live Session Recording</a>
     background_style: bg-lightdark
     events:
       - time: 09:00&nbsp;&ndash;&nbsp;09:10
