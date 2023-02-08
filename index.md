@@ -152,6 +152,7 @@ sections:
   #         * [Automatic Exploration of Textual Environments with Language-Conditioned Autotelic Agents](https://wordplay-workshop.github.io/modern/assets/pdfs/11.pdf)
   #         * [Challenges in Explainability and Knowledge Extraction](https://wordplay-workshop.github.io/modern/assets/pdfs/13.pdf)
 
+
   - type: organizers.html
     section_id: organizers
     title: Organizers
@@ -161,34 +162,34 @@ sections:
         text: Allen Institute for AI
         image: assets/img/organizers/raj.jpg
         url: http://prithvirajva.com
-      - title: Xingdi Yuan
-        text: Microsoft Research
-        image: assets/img/organizers/eric.jpg
-        url: https://xingdi-eric-yuan.github.io/
       - title: Marc-Alexandre Côté
         text: Microsoft Research
         image: assets/img/organizers/marc.jpg
         url: https://www.microsoft.com/en-us/research/people/macote/
-      - title: Ashutosh Adhikari
-        text: Microsoft Turing
-        image: assets/img/organizers/ash.jpg
-        url: https://ashutosh-adhikari.github.io/
-      - title: Matthew Hausknecht
-        text: Argo AI
-        image: assets/img/organizers/matthew.png
-        url: https://mhauskn.github.io/
-      - title: Kory Mathewson
-        text: DeepMind
-        image: assets/img/organizers/kory.jpg
-        url: https://korymathewson.com/
-      - title: Michiaki Tatsubori
-        text: IBM Research
-        image: assets/img/organizers/michiaki.jpg
-        url: https://researcher.watson.ibm.com/researcher/view.php?person=jp-MICH
-      - title: Jack Urbanek
-        text: Meta AI Research
-        image: assets/img/organizers/jack.jpg
-        url: https://ai.facebook.com/people/jack-urbanek/
+      - title: Belinda Zou Li
+        text: Massachusetts Institute of Technology
+        image: assets/img/organizers/belinda.jpg
+        url: https://belindal.github.io
+      - title: Lara Martin
+        text: University of Pennsylvania
+        image: assets/img/organizers/lara.jpg
+        url: https://laramartin.net/
+      - title: Nanyun (Violet) Peng
+        text: UCLA
+        image: assets/img/organizers/violet.jpg
+        url: https://vnpeng.net/
+      - title: Alane Suhr
+        text: Allen Institute for AI, UC Berkeley
+        image: assets/img/organizers/alane.jpg
+        url: https://www.alanesuhr.com/
+      - title: Ronen Tamari
+        text: The Hebrew University of Jerusalem, Israel
+        image: assets/img/organizers/ronen.jpg
+        url: https://ronentk.github.io/
+      - title: Laetitia Teodorescu
+        text: Inria, France
+        image: assets/img/organizers/laetitia.jpg
+        url: https://place.holder
       - title: Adam Trischler
         text: Microsoft Research
         image: assets/img/organizers/adam.jpg
@@ -197,12 +198,9 @@ sections:
         text: Meta AI Research
         image: assets/img/organizers/jason.jpg
         url: https://www.thespermwhale.com/jaseweston/
-
-  # - type: paragraph.html
-  #   section_id: reviewers
-  #   title: Reviewers
-  #   background_style:
-  #   text: >+
-  #     * The organizers would like to thank [Guiliang Liu](http://guiliang.me/) and [Raghuram Mandyam Annasamy](https://www.linkedin.com/in/maraghuram/) for helping us in the reviewing process.
+      - title: Xingdi Yuan
+        text: Microsoft Research
+        image: assets/img/organizers/eric.jpg
+        url: https://xingdi-eric-yuan.github.io/
 
 ---
