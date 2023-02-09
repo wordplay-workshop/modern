@@ -180,7 +180,7 @@ sections:
         url: https://vnpeng.net/
       - title: Alane Suhr
         text: Allen Institute for AI, UC Berkeley
-        image: assets/img/organizers/alane.jpg
+        image: assets/img/organizers/alane.JPG
         url: https://www.alanesuhr.com/
       - title: Ronen Tamari
         text: The Hebrew University of Jerusalem, Israel
