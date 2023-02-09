@@ -172,7 +172,7 @@ sections:
         url: https://belindal.github.io
       - title: Lara Martin
         text: University of Pennsylvania
-        image: assets/img/organizers/lara.jpg
+        image: assets/img/organizers/lara.jpeg
         url: https://laramartin.net/
       - title: Nanyun (Violet) Peng
         text: UCLA
@@ -184,7 +184,7 @@ sections:
         url: https://www.alanesuhr.com/
       - title: Ronen Tamari
         text: The Hebrew University of Jerusalem, Israel
-        image: assets/img/organizers/ronen.jpg
+        image: assets/img/organizers/ronen.jpeg
         url: https://ronentk.github.io/
       - title: Laetitia Teodorescu
         text: Inria, France
