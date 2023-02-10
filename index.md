@@ -189,7 +189,7 @@ sections:
       - title: Laetitia Teodorescu
         text: Inria, France
         image: assets/img/organizers/laetitia.jpg
-        url: https://place.holder
+        url: https://twitter.com/lae_teo
       - title: Adam Trischler
         text: Microsoft Research
         image: assets/img/organizers/adam.jpg
