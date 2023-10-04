@@ -2,7 +2,7 @@
 layout: home
 header:
   title: "Wordplay: When Language Meets Games
-          @ ICML 2023"
+          @ ACL 2024"
   text: >
     Your one stop shop for all things interactive narrative + AI!
 
