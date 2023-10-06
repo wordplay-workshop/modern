@@ -17,7 +17,7 @@ sections:
     title: Overview
     text: >+
 
-      **Date and time**: August 2024, exact date TBD <br />
+      **Date and time**: August 2024, exact date TBD
 
       **Location**: Bangkok, Thailand
 
@@ -54,7 +54,7 @@ sections:
 
       **Author notification:** TBD
 
-      We welcome original research papers ranging between **4-8** pages in length (not including references or supplementary materials), formatted according to [the ICML 2023 style](https://icml.cc/Conferences/2023/StyleAuthorInstructions). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised. Authors have the option of including supplementary manuscript containing further details of their work into **the same .pdf file**, it is entirely up to the reviewers to decide whether they wish to consult this additional material. Authors are strongly encouraged to make data and code publicly available whenever possible. The accepted papers will be posted on the workshop website and will not appear in the ICML proceedings.<br/>
+      We welcome original research papers ranging between **4-8** pages in length (not including references or supplementary materials), formatted according to [the ACL 2023 style](https://acl-org.github.io/ACLPUB/formatting.html). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised. Authors have the option of including supplementary manuscript containing further details of their work into **the same .pdf file**, it is entirely up to the reviewers to decide whether they wish to consult this additional material. Authors are strongly encouraged to make data and code publicly available whenever possible. The accepted papers will be posted on the workshop website and will not appear in the ACL proceedings.<br/>
 
       In addition, we welcome extended abstracts of up to 2 pages that describe open problems and challenges in this area.
       The papers will be non-archival, we welcome papers that have been published or submitted to other places.
