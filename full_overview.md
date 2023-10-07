@@ -33,37 +33,69 @@ sections:
     ## References
 
     * P. Ammanabrolu, W. Broniec, A. Mueller, J. Paul, and M. O. Riedl. Toward Automated Quest Generationin Text-Adventure Games. 2020a.
+      
     * P. Ammanabrolu, W. Cheung, D. Tu, W. Broniec, and M. O. Riedl. Bringing Stories Alive: Generating Interactive Fiction Worlds. 2020b.
+      
     * T. Anderson, M. Blank, B. Daniels, and D. Lebling. Zork. 1979.
+      
     * L. W. Barsalou. Grounded cognition. 2008.
+      
     * M. G. Bellemare, Y. Naddaf, J. Veness, and M. Bowling. The arcade learning environment: An evaluation platform for general agents. 2013.
+      
     * S. Bubeck, V. Chandrasekaran, R. Eldan, J. Gehrke, E. Horvitz, E. Kamar, P. Lee, Y. T. Lee, Y. Li, S. Lundberg, et al. Sparks of artificial general intelligence: Early experiments with GPT-4. 2023.
+      
     * C. Callison-Burch, G. Singh Tomar, L. J. Martin, D. Ippolito, S. Bailis, and D. Reitter. Dungeons and Dragons as a Dialogue Challenge for Artificial Intelligence. 2022.
+      
     * M.-A. Côté, ́Á. Kádár, X. Yuan, Q. Kybartas, T. Barnes, E. Fine, J. Moore, M. Hausknecht, L. E.Asri, M. Adada, W. Tay, and A. Trischler. Textworld: A learning environment for text-based games. 2018.
+      
     * A. Fan, J. Urbanek, P. Ringshia, E. Dinan, E. Qian, S. Karamcheti, S. Prabhumoye, D. Kiela, T. Rocktaschel, A. Szlam, et al. Generating Interactive Worlds with Text. 2019.
+      
     * J. Feldman and S. Narayanan. Embodied meaning in a neural theory of language. 2004.
+      
     * N. Fulda, D. Ricks, B. Murdoch, and D. Wingate. What Can You Do with a Rock? Affordance Extraction via Word Embeddings. 2017.
+      
     * M. Guzdial, B. Harrison, B. Li, and M. Riedl. Crowdsourcing Open Interactive Narrative. 2015.
+      
     * M. Hausknecht, P. Ammanabrolu, M.-A. Côté, and X. Yuan. Interactive Fiction Games: A Colossal Adventure. 2019.
+      
     * M. Johnson, K. Hofmann, T. Hutton, and D. Bignell. The MALMO platform for artificial intelligence experimentation. 2016.
+      
     * E. Kolve, R. Mottaghi, W. Han, E. VanderBilt, L. Weihs, A. Herrasti, D. Gordon, Y. Zhu, A. Gupta, and A. Farhadi. AI2-THOR: An Interactive 3D Environment for Visual AI. 2017.
+      
     * B. Z. Li, M. Nye, and J. Andreas. Implicit representations of meaning in neural language models. 2021.
+      
     * L. J. Martin, P. Ammanabrolu, X. Wang, S. Singh, B. Harrison, M. Dhuliawala, P. Tambwekar, A. Mehta, R. Arora, N. Dass, C. Purdy, and M. O. Riedl. Improvisational Storytelling Agents. 2017.
+      
     * L. J. Martin, B. Harrison, and M. O. Riedl. Improvisational Computational Storytelling in Open Worlds. 2016.
+      
     * L. J. Martin, S. Sood, and M. O. Riedl. Dungeons and DQNs: Toward Reinforcement Learning Agents that Play Tabletop Roleplaying Games. 2018.
+      
     * K. W. Mathewson and P. Mirowski. Improvised theatre alongside artificial intelligences. 2017.
+      
     * P. Mirowski and K. W. Mathewson. Human improvised theatre augmented with artificial intelligence. 2019.
+      
     * K. Narasimhan, T. Kulkarni, and R. Barzilay. Language Understanding for Text-based Games Using Deep Reinforcement Learning. 2015.
+      
     * J. S. Park, J. C. O'Brien, C. J. Cai, M. Ringel Morris, P. Liang, and M. S. Bernstein. Generative agents: Interactive simulacra of human behavior. 2023.
+      
     * S. Prabhumoye, M. Li, J. Urbanek, E. Dinan, D. Kiela, J. Weston, and A. Szlam. I love your chain mail! making knights smile in a fantasy game world: Open-domain goal-orientated dialogue agents. 2020.
+      
     * R. Tamari, K. Richardson, N. Kahlon, A. Sar-shalom, N. F. Liu, R. Tsarfaty, and D. Shahaf. Dyna-bAbI: unlocking bAbI's potential with dynamic synthetic benchmarking. 2022.
+      
     * R. Tamari, C. Shani, Tom Hope, Miriam R L Petruck, Omri Abend, and Dafna Shahaf. Language (re)modelling: Towards embodied language understanding. 2020.
+      
     * R. Tamari, H. Shindo, D. Shahaf, and Y. Matsumoto. Playing by the Book: An Interactive Game Approach for Action Graph Extraction from Text. 2019.
+      
     * J. Urbanek, A. Fan, S. Karamcheti, S. Jain, S. Humeau, E. Dinan, T. Rocktäschel, D. Kiela, A. Szlam, andJ. Weston. Learning to Speak and Act in a Fantasy Text Adventure Game. 2019.
+      
     * R. Wang, P. Jansen, M.-A. Côté, and P. Ammanabrolu. ScienceWorld: Is your agent smarter than a 5th grader? 2022.
+      
     * J. Womack and W. Freeman. Interactive Narrative Generation Using Location and Genre Specific Context. 2019.
+      
     * X. Yuan, M.-A. Côté, J. Fu, Z. Lin, C. Pal, Y. Bengio, and A. Trischler. Interactive Language Learning by Question Answering. 2019.
+      
     * T. Zahavy, M. Haroush, N. Merlis, D. J. Mankowitz, and S. Mannor. Learn What Not to Learn: Action Elimination with Deep Reinforcement Learning. 2018.
+      
     * A. Zhu, K. Aggarwal, A. Feng, L. J. Martin, and C. Callison-Burch. FIREBALL: A Dataset of Dungeons and Dragons Actual-Play with Structured Game State Information. 2023.
       
 ---
