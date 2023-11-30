@@ -17,7 +17,7 @@ sections:
     title: Overview
     text: >+
 
-      **Date and time**: August 2024, exact date TBD
+      **Date and time**: August 16, 2024
 
       **Location**: Bangkok, Thailand
 
