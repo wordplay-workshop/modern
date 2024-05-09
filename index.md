@@ -110,7 +110,7 @@ sections:
     members:
       - title: Yoav Artzi
         text: Cornell University
-        image: assets/img/invited_speakers/yoav.jpeg
+        image: assets/img/invited_speakers/yoav.png
         url: https://yoavartzi.com/
       - title: Joyce Chai
         text: University of Michigan

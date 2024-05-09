@@ -9,8 +9,8 @@ header:
   url: /#cfp
 # - title: Schedule
   # url: /#schedule
-# - title: Speakers
-  # url: /#invited_speakers
+- title: Speakers
+  url: /#invited_speakers
 # - title: Accepted Papers
   # url: /#accepted_papers
 - title: Organizers
