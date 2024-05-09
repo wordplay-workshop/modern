@@ -103,31 +103,31 @@ sections:
   #     - time: <b>Friday July 15<sup>th</sup></b> 15:30&nbsp;&ndash;&nbsp;16:30
   #       title: "Joint In-person Poster Session with Narrative Understanding workshop - Regency ballroom on the 7<sup>th</sup> floor"
 
-  # - type: invited_speakers.html
-  #   section_id: invited_speakers
-  #   title: Speakers
-  #   background_style: bg-dark text-white
-  #   members:
-  #     - title: Shrimai Prabhumoye
-  #       text: Nvidia
-  #       image: assets/img/invited_speakers/shrimai.jpg
-  #       url: https://www.cs.cmu.edu/~sprabhum/
-  #     - title: Tim Rocktäschel
-  #       text: University College London & Deepmind
-  #       image: assets/img/invited_speakers/tim.jpg
-  #       url: https://rockt.github.io/
-  #     - title: Hal Daumé III
-  #       text: University of Maryland & Microsoft Research
-  #       image: assets/img/invited_speakers/hal.png
-  #       url: http://hal3.name/
-  #     - title: Peter Jansen
-  #       text: University of Arizona
-  #       image: assets/img/invited_speakers/peter.jpg
-  #       url: http://cognitiveai.org/
-  #     - title: Lynn Cherny
-  #       text: GhostWeather
-  #       image: assets/img/invited_speakers/lynn.jpg
-  #       url: http://www.ghostweather.com/
+  - type: invited_speakers.html
+    section_id: invited_speakers
+    title: Speakers
+    background_style: bg-dark text-white
+    members:
+      - title: Yoav Artzi
+        text: Cornell University
+        image: assets/img/invited_speakers/yoav.jpeg
+        url: https://yoavartzi.com/
+      - title: Joyce Chai
+        text: University of Michigan
+        image: assets/img/invited_speakers/joyce.jpeg
+        url: https://web.eecs.umich.edu/~chaijy/
+      - title: Emily Dinan
+        text: Meta AI Research
+        image: assets/img/invited_speakers/emily.jpeg
+        url: https://ai.meta.com/people/767581351981566/emily-dinan/
+      - title: Bodhisattwa Prasad Majumder
+        text: Allen Institute for AI
+        image: assets/img/invited_speakers/bodhi.jpg
+        url: https://www.majumderb.com/
+      - title: Ida Momennejad
+        text: Microsoft Research
+        image: assets/img/invited_speakers/ida.webp
+        url: https://www.momen-nejad.org/
 
   # - type: paragraphs.html
   #   section_id: accepted_papers
