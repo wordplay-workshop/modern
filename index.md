@@ -153,6 +153,27 @@ sections:
   #         * [Automatic Exploration of Textual Environments with Language-Conditioned Autotelic Agents](https://wordplay-workshop.github.io/modern/assets/pdfs/11.pdf)
   #         * [Challenges in Explainability and Knowledge Extraction](https://wordplay-workshop.github.io/modern/assets/pdfs/13.pdf)
 
+  - type: paragraphs.html
+    section_id: reviewers
+    title: Reviewers
+    background_style: bg-lightdark
+    texts:
+      - >+
+        * Christopher Zhang Cui (UC San Diego)
+        * Daphne Ippolito (CMU)
+        * Kawshik Kannan (Covera Health)
+        * Jack Kelly (UC Santa Cruz)
+        * Ziqian Luo (Oracle)
+        * Dana Moukheiber (MIT)
+        * Michelle Pan (UC Berkeley)
+        * Sashrika Pandey (UC Berkeley)
+        * Xiangyu Peng (Georgia Tech)
+        * Yewen Pu (Autodesk)
+        * Graham Todd (NYU)
+        * Saujas Vaduguru (CMU)
+        * Ruoyao Wang (University of Arizona)
+        * Ziang Xiao (JHU)
+        * Kunlun Zhu (Mila)
 
   - type: organizers.html
     section_id: organizers
