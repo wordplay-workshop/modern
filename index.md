@@ -70,37 +70,37 @@ sections:
     events:
       - time: 09:20&nbsp;&ndash;&nbsp;09:40
         title: "Opening Remarks"
-        et: 22:20&nbsp;&ndash;&nbsp;22:40 (Aug 15)
+        et: Eastern Time 22:20&nbsp;&ndash;&nbsp;22:40 (Aug 15)
       - time: 09:40&nbsp;&ndash;&nbsp;10:30
         title: Keynote 1 - Ida Momennejad (remote)
-        et: ET 22:40&nbsp;&ndash;&nbsp;23:30 (Aug 15)
+        et: Eastern Time 22:40&nbsp;&ndash;&nbsp;23:30 (Aug 15)
       - time: 10:30&nbsp;&ndash;&nbsp;11:00
         title: Coffee Break & Poster Session 1
-        et: ET 23:30&nbsp;&ndash;&nbsp;midnight (Aug 15)
+        et: Eastern Time 23:30&nbsp;&ndash;&nbsp;midnight (Aug 15)
       - time: 11:00&nbsp;&ndash;&nbsp;11:50
         title: Keynote 2 - Yoav Artzi (remote)
-        et: ET 00:00&nbsp;&ndash;&nbsp;00:50
+        et: Eastern Time 00:00&nbsp;&ndash;&nbsp;00:50
       - time: 11:50&nbsp;&ndash;&nbsp;12:40
         title: Keynote 3 - Emily Dinan (remote)
-        et: ET 00:50&nbsp;&ndash;&nbsp;01:40
+        et: Eastern Time 00:50&nbsp;&ndash;&nbsp;01:40
       - time: 12:40&nbsp;&ndash;&nbsp;13:40
         title: Lunch Break & Poster Session 2
-        et: ET 01:40&nbsp;&ndash;&nbsp;02:40
+        et: Eastern Time 01:40&nbsp;&ndash;&nbsp;02:40
       - time: 13:40&nbsp;&ndash;&nbsp;14:40
         title: Lightning talks by remote presenters (recordings)
-        et: ET 02:50&nbsp;&ndash;&nbsp;03:40
+        et: Eastern Time 02:50&nbsp;&ndash;&nbsp;03:40
       - time: 14:40&nbsp;&ndash;&nbsp;15:30
         title: Keynote 4 - Joyce Chai (in-person)
-        et: ET 03:40&nbsp;&ndash;&nbsp;04:30
+        et: Eastern Time 03:40&nbsp;&ndash;&nbsp;04:30
       - time: 15:30&nbsp;&ndash;&nbsp;16:00
         title: Coffee Break & Poster Session 3
-        et: ET 04:30&nbsp;&ndash;&nbsp;05:00
+        et: Eastern Time 04:30&nbsp;&ndash;&nbsp;05:00
       - time: 16:00&nbsp;&ndash;&nbsp;16:50
         title: Keynote 5 - Bodhisattwa Prasad Majumder (in-person)
-        et: ET 05:00&nbsp;&ndash;&nbsp;05:50
+        et: Eastern Time 05:00&nbsp;&ndash;&nbsp;05:50
       - time: 16:50&nbsp;&ndash;&nbsp;17:00
         title: Closing Remarks
-        et: ET 05:50&nbsp;&ndash;&nbsp;06:00
+        et: Eastern Time 05:50&nbsp;&ndash;&nbsp;06:00
 
   - type: invited_speakers.html
     section_id: invited_speakers
