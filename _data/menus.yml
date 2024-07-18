@@ -7,8 +7,8 @@ header:
   url: /#overview
 - title: Call For Papers
   url: /#cfp
-# - title: Schedule
-  # url: /#schedule
+- title: Schedule
+  url: /#schedule
 - title: Speakers
   url: /#invited_speakers
 # - title: Accepted Papers
