@@ -90,13 +90,13 @@ sections:
         title: Lightning talks by remote presenters (recordings)
         et: Eastern Time 02:50&nbsp;&ndash;&nbsp;03:40
       - time: 14:40&nbsp;&ndash;&nbsp;15:30
-        title: Keynote 4 - Joyce Chai (in-person)
+        title: Keynote 4 - Bodhisattwa Prasad Majumder (in-person)
         et: Eastern Time 03:40&nbsp;&ndash;&nbsp;04:30
       - time: 15:30&nbsp;&ndash;&nbsp;16:00
         title: Coffee Break & Poster Session 3
         et: Eastern Time 04:30&nbsp;&ndash;&nbsp;05:00
       - time: 16:00&nbsp;&ndash;&nbsp;16:50
-        title: Keynote 5 - Bodhisattwa Prasad Majumder (in-person)
+        title: Keynote 5 - Joyce Chai (in-person)
         et: Eastern Time 05:00&nbsp;&ndash;&nbsp;05:50
       - time: 16:50&nbsp;&ndash;&nbsp;17:00
         title: Closing Remarks
