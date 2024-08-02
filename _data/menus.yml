@@ -11,8 +11,8 @@ header:
   url: /#schedule
 - title: Speakers
   url: /#invited_speakers
-# - title: Accepted Papers
-  # url: /#accepted_papers
+- title: Accepted Papers
+  url: /#accepted_papers
 - title: Organizers
   url: /#organizers
 - title: Reviewers
