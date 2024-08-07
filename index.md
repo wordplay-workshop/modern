@@ -88,7 +88,7 @@ sections:
         et: Eastern Time 01:40&nbsp;&ndash;&nbsp;02:40
       - time: 13:40&nbsp;&ndash;&nbsp;14:40
         title: Lightning talks by remote presenters (recordings)
-        et: Eastern Time 02:50&nbsp;&ndash;&nbsp;03:40
+        et: Eastern Time 02:40&nbsp;&ndash;&nbsp;03:40
       - time: 14:40&nbsp;&ndash;&nbsp;15:30
         title: Keynote 4 - Bodhisattwa Prasad Majumder (in-person)
         et: Eastern Time 03:40&nbsp;&ndash;&nbsp;04:30
