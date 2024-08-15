@@ -19,9 +19,12 @@ sections:
 
       **Date and time**: August 16, 2024
 
-      **Location**: Bangkok, Thailand
+      **Location**: Bangkok, Thailand at the Centara Grand and Bangkok Convention Centre - Lotus Suite 12
 
-      **Virtual links**: TBD <br />
+      **Virtual links**: 
+      Gather: [https://app.gather.town/app/7Rf2IGR6LODvPyOx/ACL2024Workshops?spawnToken=OGhTBihkR42v90hpYC0M](https://app.gather.town/app/7Rf2IGR6LODvPyOx/ACL2024Workshops?spawnToken=OGhTBihkR42v90hpYC0M)
+
+      Zoom: [https://us06web.zoom.us/j/83728306236?pwd=s6a9RZycG10NSH4EkTxYzXkK9VIFjT.1](https://us06web.zoom.us/j/83728306236?pwd=s6a9RZycG10NSH4EkTxYzXkK9VIFjT.1) <br />
       
 
       This workshop focused on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018, NeurIPS 2020, & NAACL 2022. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br />
