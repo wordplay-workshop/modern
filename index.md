@@ -101,7 +101,7 @@ sections:
   #       title: Closing Remarks
   #       et: Eastern Time 05:50&nbsp;&ndash;&nbsp;06:00
 
-  - type: shared_task.html
+  - type: paragraph.html
     section_id: shared_task
     title: Shared Task
     background_style: bg-dark text-white
