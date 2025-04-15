@@ -107,7 +107,7 @@ sections:
     background_style: bg-dark text-white
     text: >+
 
-      ** Shared task : Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025** 
+      **Shared task: Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025** 
 
       * Total prize value: USD 20,000!!! 
 
