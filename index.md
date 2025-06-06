@@ -256,10 +256,6 @@ sections:
         text: EPFL
         image: assets/img/organizers/antoine.jpg
         url: https://atcbosselut.github.io/
-      - title: Prithviraj Ammanabrolu
-        text: MosaicML & University of California, San Diego (UCSD)
-        image: assets/img/organizers/raj.jpg
-        url: http://prithvirajva.com
       - title: Marc-Alexandre Côté
         text: Microsoft Research
         image: assets/img/organizers/marc.jpg
