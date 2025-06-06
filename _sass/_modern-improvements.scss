@@ -483,3 +483,183 @@ footer {
   padding: 3rem 0;
   background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
 }
+
+// Unique Adventure-themed Section Backgrounds
+.bg-treasure-vault {
+  background: linear-gradient(135deg, var(--treasure-gold) 0%, var(--terminal-amber) 30%, var(--ancient-bronze) 100%) !important;
+  color: var(--dungeon-gray);
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+      radial-gradient(circle at 15% 85%, rgba(15, 52, 96, 0.1) 0%, transparent 50%),
+      radial-gradient(circle at 85% 15%, rgba(74, 20, 140, 0.1) 0%, transparent 50%),
+      linear-gradient(45deg, rgba(255,255,255,0.1) 0%, transparent 100%);
+    pointer-events: none;
+  }
+  
+  h2, h3, h4, h5, h6 {
+    color: var(--dungeon-gray);
+    position: relative;
+    z-index: 1;
+    text-shadow: 0 1px 2px rgba(255,255,255,0.3);
+  }
+  
+  p, li {
+    color: var(--midnight-blue);
+    position: relative;
+    z-index: 1;
+    font-weight: 600;
+  }
+  
+  strong {
+    color: var(--deep-forest);
+  }
+}
+
+.bg-mystic-forest {
+  background: linear-gradient(135deg, var(--deep-forest) 0%, #1a5f3f 50%, var(--terminal-green) 100%) !important;
+  color: var(--parchment);
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+      radial-gradient(circle at 20% 80%, rgba(212, 175, 55, 0.15) 0%, transparent 60%),
+      radial-gradient(circle at 80% 20%, rgba(0, 255, 65, 0.1) 0%, transparent 60%),
+      radial-gradient(circle at 50% 50%, rgba(255, 176, 0, 0.05) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  
+  h2, h3, h4, h5, h6 {
+    color: var(--treasure-gold);
+    position: relative;
+    z-index: 1;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+  }
+  
+  p, li {
+    color: var(--parchment);
+    position: relative;
+    z-index: 1;
+  }
+  
+  strong {
+    color: var(--terminal-amber);
+  }
+}
+
+.bg-ancient-scroll {
+  background: linear-gradient(135deg, var(--scroll-beige) 0%, #e8dcc0 50%, #d4c5a0 100%) !important;
+  color: var(--dungeon-gray);
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+      radial-gradient(circle at 10% 90%, rgba(205, 127, 50, 0.2) 0%, transparent 40%),
+      radial-gradient(circle at 90% 10%, rgba(212, 175, 55, 0.15) 0%, transparent 40%),
+      repeating-linear-gradient(
+        90deg,
+        transparent,
+        transparent 98px,
+        rgba(205, 127, 50, 0.03) 100px
+      );
+    pointer-events: none;
+  }
+  
+  h2, h3, h4, h5, h6 {
+    color: var(--mystery-purple);
+    position: relative;
+    z-index: 1;
+    text-shadow: 0 1px 2px rgba(212, 175, 55, 0.2);
+  }
+  
+  p, li {
+    color: var(--dungeon-gray);
+    position: relative;
+    z-index: 1;
+  }
+  
+  strong {
+    color: var(--deep-forest);
+  }
+}
+
+.bg-dungeon-depths {
+  background: linear-gradient(135deg, var(--midnight-blue) 0%, #0a1929 50%, var(--dungeon-gray) 100%) !important;
+  color: var(--parchment);
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+      radial-gradient(circle at 25% 75%, rgba(212, 175, 55, 0.1) 0%, transparent 50%),
+      radial-gradient(circle at 75% 25%, rgba(74, 20, 140, 0.15) 0%, transparent 50%),
+      radial-gradient(circle at 50% 50%, rgba(0, 255, 65, 0.03) 0%, transparent 80%);
+    pointer-events: none;
+  }
+  
+  h2, h3, h4, h5, h6 {
+    color: var(--treasure-gold);
+    position: relative;
+    z-index: 1;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5), 0 0 10px rgba(212, 175, 55, 0.3);
+  }
+  
+  p, li {
+    color: var(--parchment);
+    position: relative;
+    z-index: 1;
+  }
+  
+  strong {
+    color: var(--terminal-amber);
+  }
+}
+
+// Enhanced dividers for different backgrounds
+.bg-treasure-vault hr.divider::after {
+  background: var(--midnight-blue);
+  color: var(--treasure-gold);
+  border-color: var(--midnight-blue);
+}
+
+.bg-mystic-forest hr.divider::after {
+  background: var(--deep-forest);
+  color: var(--treasure-gold);
+  border-color: var(--treasure-gold);
+}
+
+.bg-ancient-scroll hr.divider::after {
+  background: var(--mystery-purple);
+  color: var(--ancient-bronze);
+  border-color: var(--mystery-purple);
+}
+
+.bg-dungeon-depths hr.divider::after {
+  background: var(--dungeon-gray);
+  color: var(--treasure-gold);
+  border-color: var(--treasure-gold);
+}

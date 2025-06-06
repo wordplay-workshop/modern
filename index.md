@@ -15,6 +15,7 @@ sections:
   - type: paragraph.html
     section_id: overview
     title: Overview
+    background_style: bg-ancient-scroll
     text: >+
 
       **Date and time**: November 5th-9th, 2025
@@ -46,7 +47,7 @@ sections:
   - type: paragraph.html
     section_id: cfp
     title: Call For Papers
-    background_style: bg-lightdark
+    background_style: bg-mystic-forest
     text: >+
 
       **Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay) 
@@ -117,7 +118,7 @@ sections:
   - type: paragraph.html
     section_id: shared_task
     title: Shared Task
-    background_style: bg-dark text-white
+    background_style: bg-treasure-vault
     text: >+
 
       **Shared task: Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025** 
@@ -246,7 +247,7 @@ sections:
   - type: organizers.html
     section_id: organizers
     title: Organizers
-    background_style: bg-dark text-white
+    background_style: bg-dungeon-depths
     members:
       - title: Prithviraj Ammanabrolu
         text: MosaicML & University of California, San Diego (UCSD)
