@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wordplay Workshop - Design Preview</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+    <style>
+        /* Modern Design Improvements */
+        :root {
+            --primary: #667eea;
+            --secondary: #764ba2;
+            --gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            --light-bg: #f8f9fa;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+        }
+
+        h1, h2, h3, h4, h5, h6 {
+            font-family: 'Merriweather', serif;
+            font-weight: 300;
+            letter-spacing: -0.01em;
+        }
+
+        /* Enhanced Masthead */
+        .masthead {
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.9) 0%, rgba(118, 75, 162, 0.9) 100%), 
+                        url('https://wordplay-workshop.github.io/modern/assets/img/bg-masthead.png');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .masthead::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: radial-gradient(circle at center, transparent 0%, rgba(0,0,0,0.1) 100%);
+            pointer-events: none;
+        }
+
+        .masthead h1 {
+            font-size: 3.5rem;
+            font-weight: 300;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            margin-bottom: 1.5rem;
+        }
+
+        .masthead p {
+            font-size: 1.2rem;
+            font-weight: 300;
+            text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+            margin-bottom: 2rem;
+        }
+
+        /* Enhanced Navigation */
+        .navbar {
+            background-color: rgba(255, 255, 255, 0.95) !important;
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            box-shadow: 0 2px 20px rgba(0,0,0,0.1);
+        }
+
+        .navbar-brand {
+            font-weight: 600;
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-size: 1.2rem;
+        }
+
+        .nav-link {
+            font-weight: 500;
+            color: #495057 !important;
+            transition: color 0.3s ease;
+        }
+
+        .nav-link:hover {
+            color: var(--primary) !important;
+        }
+
+        /* Modern Sections */
+        .section {
+            padding: 6rem 0;
+            position: relative;
+        }
+
+        .section:nth-child(even) {
+            background: linear-gradient(to bottom, #f8f9fa 0%, #ffffff 100%);
+            border-top: 1px solid rgba(0,0,0,0.05);
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+
+        .section-lightdark {
+            background: var(--gradient) !important;
+            color: white;
+        }
+
+        .section-lightdark h2 {
+            color: white;
+        }
+
+        .section-lightdark .text-muted {
+            color: rgba(255,255,255,0.8) !important;
+        }
+
+        /* Modern Dividers */
+        .divider {
+            max-width: 4rem;
+            border-width: 0.25rem;
+            border-radius: 2px;
+            background: var(--gradient);
+            border: none;
+            height: 0.25rem;
+            margin: 2rem auto;
+            position: relative;
+        }
+
+        .divider::after {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            width: 0.5rem;
+            height: 0.5rem;
+            background: white;
+            border-radius: 50%;
+        }
+
+        /* Enhanced Buttons */
+        .btn-primary {
+            background: var(--gradient);
+            border: none;
+            border-radius: 50px;
+            padding: 0.75rem 2rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            box-shadow: 0 4px 15px 0 rgba(102, 126, 234, 0.3);
+            transition: all 0.3s ease;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px 0 rgba(102, 126, 234, 0.4);
+            background: var(--gradient);
+        }
+
+        .btn-xl {
+            padding: 1rem 2.5rem;
+            font-size: 0.9rem;
+        }
+
+        /* Modern Member Cards */
+        .member-card {
+            background: white;
+            border-radius: 15px;
+            padding: 2rem 1.5rem;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .member-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+        }
+
+        .member-card img {
+            width: 120px;
+            height: 120px;
+            border-radius: 50%;
+            border: 4px solid white;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+            margin-bottom: 1.5rem;
+            object-fit: cover;
+        }
+
+        .member-card h5 a {
+            background: var(--gradient);
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            text-decoration: none;
+        }
+
+        /* Enhanced Lists */
+        .enhanced-list li {
+            margin-bottom: 0.5rem;
+            position: relative;
+            padding-left: 1.5rem;
+        }
+
+        .enhanced-list li::before {
+            content: '▸';
+            position: absolute;
+            left: 0;
+            color: var(--primary);
+            font-weight: bold;
+        }
+
+        /* Animations */
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .fade-in {
+            animation: fadeInUp 0.6s ease-out;
+        }
+
+        /* Mobile Responsive */
+        @media (max-width: 768px) {
+            .masthead h1 {
+                font-size: 2rem;
+            }
+            
+            .masthead p {
+                font-size: 1rem;
+            }
+            
+            .section {
+                padding: 4rem 0;
+            }
+        }
+
+        /* Smooth scrolling */
+        html {
+            scroll-behavior: smooth;
+        }
+
+        a {
+            color: var(--primary);
+            transition: color 0.3s ease;
+        }
+
+        a:hover {
+            color: var(--secondary);
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#home">WORDPLAY</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#overview">Overview</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#cfp">Call For Papers</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#shared-task">Shared Task</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#organizers">Organizers</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Masthead -->
+    <section class="masthead" id="home">
+        <div class="container">
+            <div class="row justify-content-center text-center">
+                <div class="col-lg-10">
+                    <h1 class="fade-in">Wordplay: When Language Meets Games @ EMNLP 2025</h1>
+                    <hr class="divider">
+                    <p class="fade-in">Your one stop shop for all things interactive narrative + AI!</p>
+                    <a class="btn btn-primary btn-xl" href="https://wordplay-workshop.github.io/">Back to the '80s</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Overview -->
+    <section class="section" id="overview">
+        <div class="container">
+            <h2 class="text-center fade-in">Overview</h2>
+            <hr class="divider">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <p><strong>Date and time:</strong> November 5th-9th, 2025</p>
+                    <p><strong>Location:</strong> Suzhou, China</p>
+                    <p><strong>Shared task:</strong> <a href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025">Official website</a></p>
+                    <p><strong>Submission website:</strong> <a href="https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay">OpenReview</a></p>
+                    
+                    <p>This workshop focused on exploring the utility of interactive narratives, think everything from classic text-adventures like <a href="http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex">Zork</a> to modern <a href="https://twinery.org/">Twine</a> games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling.</p>
+                    
+                    <p>We like all things:</p>
+                    <ul class="enhanced-list">
+                        <li>Interactive narrative: game playing RL agents, game generation, etc.</li>
+                        <li>Interactive language learning</li>
+                        <li>Natural language generation</li>
+                        <li>Improvisational storytelling</li>
+                        <li>And more! Anything you can think of that involves narrative, interactivity, and language!</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Call For Papers -->
+    <section class="section section-lightdark" id="cfp">
+        <div class="container">
+            <h2 class="text-center">Call For Papers</h2>
+            <hr class="divider">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <p><strong>Submission website:</strong> <a href="https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay" style="color: white;">OpenReview</a></p>
+                    <p><strong>Submission deadline:</strong> August 29, 2025, 23:59 (Anywhere On Earth)</p>
+                    <p><strong>Author notification:</strong> September 26, 2025</p>
+                    
+                    <h4>Main track:</h4>
+                    <p>We welcome original research papers ranging between 4-8 pages in length (not including references or supplementary materials), formatted according to the ACL style.</p>
+                    
+                    <h4>CPDC track:</h4>
+                    <p>We also welcome participants of the Common-sense Persona-Grounded Dialogue Challenge (CPDC) competition to submit technical reports to describe their submitted systems.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Shared Task -->
+    <section class="section" id="shared-task">
+        <div class="container">
+            <h2 class="text-center">Shared Task</h2>
+            <hr class="divider">
+            <div class="row justify-content-center">
+                <div class="col-lg-8 text-center">
+                    <h4>Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025</h4>
+                    <p class="lead"><strong>Total prize value: USD 20,000!!!</strong></p>
+                    <a class="btn btn-primary btn-xl" href="https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025">Official Website</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Organizers -->
+    <section class="section section-lightdark" id="organizers">
+        <div class="container">
+            <h2 class="text-center">Organizers</h2>
+            <hr class="divider">
+            <div class="row">
+                <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="member-card">
+                        <img src="https://wordplay-workshop.github.io/modern/assets/img/organizers/raj.jpg" alt="Prithviraj Ammanabrolu">
+                        <h5><a href="http://prithvirajva.com/">Prithviraj Ammanabrolu</a></h5>
+                        <p>MosaicML & University of California, San Diego (UCSD)</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="member-card">
+                        <img src="https://wordplay-workshop.github.io/modern/assets/img/organizers/antoine.jpg" alt="Antoine Bosselut">
+                        <h5><a href="https://atcbosselut.github.io/">Antoine Bosselut</a></h5>
+                        <p>EPFL</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="member-card">
+                        <img src="https://wordplay-workshop.github.io/modern/assets/img/organizers/marc.jpg" alt="Marc-Alexandre Côté">
+                        <h5><a href="https://www.microsoft.com/en-us/research/people/macote/">Marc-Alexandre Côté</a></h5>
+                        <p>Microsoft Research</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 mb-4">
+                    <div class="member-card">
+                        <img src="https://wordplay-workshop.github.io/modern/assets/img/organizers/lara.jpeg" alt="Lara J. Martin">
+                        <h5><a href="https://laramartin.net/">Lara J. Martin</a></h5>
+                        <p>University of Maryland, Baltimore County (UMBC)</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

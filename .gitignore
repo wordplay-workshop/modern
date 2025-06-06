@@ -1,5 +1,30 @@
+# Jekyll build files
 _site/
 .sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundle vendor files (gems installed locally)
+vendor/
+.bundle/
+
+# System files
 .DS_Store
+Thumbs.db
+
+# Gem files
 Gemfile.lock
+
+# Development/testing folders
 copilot/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo

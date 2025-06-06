@@ -2,6 +2,29 @@
   height: 15em !important;
   min-height: 15em !important;
 }
+
 .page-section-smaller {
-  padding: 2rem 0;
+  padding: 4rem 0;
+  position: relative;
+  
+  @media (max-width: 768px) {
+    padding: 3rem 0;
+  }
+}
+
+// Enhanced section styling
+.page-section {
+  padding: 6rem 0;
+  position: relative;
+  
+  @media (max-width: 768px) {
+    padding: 4rem 0;
+  }
+}
+
+// Alternating section backgrounds for better visual separation
+section:nth-child(even):not(.bg-primary):not(.bg-lightdark) {
+  background: linear-gradient(to bottom, #f8f9fa 0%, #ffffff 100%);
+  border-top: 1px solid rgba(0,0,0,0.05);
+  border-bottom: 1px solid rgba(0,0,0,0.05);
 }
