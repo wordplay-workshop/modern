@@ -4,10 +4,12 @@
     <hr class="divider my-4">
     <div class="row justify-content-center">
       {% for member in section.members %}
-      <div class="col-lg-3 col-md-6 text-center">
-        <div class="member-box">
-          <img class="fa fa-4x text-primary" src="{{ member.image }}" alt="{{ member.title }}">
-          <h3 class="h4 mb-2"><a href="{{ member.url }}">{{ member.title }}</a></h3>
+      <div class="col-lg-3 col-md-6 text-center mb-4 d-flex">
+        <div class="member-box flex-fill">
+          <div class="member-content">
+            <img class="fa fa-4x text-primary" src="{{ member.image }}" alt="{{ member.title }}">
+            <h3 class="h4 mb-2"><a href="{{ member.url }}">{{ member.title }}</a></h3>
+          </div>
           <p class="mb-0">{{ member.text }}</p>
         </div>
       </div>
