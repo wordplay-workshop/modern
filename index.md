@@ -23,6 +23,8 @@ sections:
 
       **Shared task:** [Official website](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025)
 
+      **Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay)
+
       This workshop focused on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018, NeurIPS 2020, & NAACL 2022. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br />
 
       We like all things:
@@ -41,26 +43,37 @@ sections:
 
       [Check out the full version of our overview!](/modern/full_overview)
 
-  # - type: paragraph.html
-  #   section_id: cfp
-  #   title: Call For Papers
-  #   background_style: bg-lightdark
-  #   text: >+
+  - type: paragraph.html
+    section_id: cfp
+    title: Call For Papers
+    background_style: bg-lightdark
+    text: >+
 
-  #     **Submission website:** [OpenReview](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/Wordplay) 
+      **Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay) 
 
-  #     **Submission deadline:** ~~Apr 19~~ ~~May 17~~ May 31, 2024, 23:59 (Anywhere On Earth)
+      **Submission deadline:** August 29, 2025, 23:59 (Anywhere On Earth)
 
-  #     **Author notification:** ~~May 24~~ June 17, 2024
+      **Author notification:** September 26, 2025<br/><br/>
 
-  #     We welcome original research papers ranging between **4-8** pages in length (not including references or supplementary materials), formatted according to [the ACL 2023 style](https://acl-org.github.io/ACLPUB/formatting.html). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised. Authors have the option of including supplementary manuscript containing further details of their work into **the same .pdf file**, it is entirely up to the reviewers to decide whether they wish to consult this additional material. Authors are strongly encouraged to make data and code publicly available whenever possible. The accepted papers will be posted on the workshop website and will not appear in the ACL proceedings.<br/>
+      We have two tracks:
 
-  #     In addition, we welcome extended abstracts of up to 2 pages that describe open problems and challenges in this area.
-  #     The papers will be non-archival, we welcome papers that have been published or submitted to other places.
-  #     However, authors are required to acknowledge their papers' original appearance in such cases. <br/>
+      **Main track:**
 
-  #     All accepted papers and extended abstracts will be presented as posters.
-  #     The program committee will select a few papers for oral presentation.
+      We welcome original research papers ranging between **4-8** pages in length (not including references or supplementary materials), formatted according to [the ACL style](https://acl-org.github.io/ACLPUB/formatting.html). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised.
+      Authors have the option of including supplementary manuscript containing further details of their work into **the same .pdf file**, it is entirely up to the reviewers to decide whether they wish to consult this additional material. Authors are strongly encouraged to make data and code publicly available whenever possible. The accepted papers will be posted on the workshop website and will not appear in the EMNLP proceedings.<br/>
+
+      In addition, we welcome extended abstracts of up to **2** pages that describe open problems and challenges in this area.
+      The papers will be non-archival, we welcome papers that have been published or submitted to other places.
+      However, authors are required to acknowledge their papers' original appearance in such cases. <br/>
+
+      All accepted papers and extended abstracts will be presented as posters.
+      The program committee will select a few papers for oral presentation. <br/>
+
+      **CPDC track:**
+
+      We also welcome participants of [the Common-sense Persona-Grounded Dialogue Challenge (CPDC) competition](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025) to submit technical reports to describe their submitted systems. There is **no page limit**; the authors are required to put **CPDC** as a keyword in their submission form; the authors are also required to mention their CPDC team id in the technical report submission. <br/>
+
+      We encourage all CPDC participants to submit and share their work. After light review, the accepted technical reports will be posted on the workshop website and will not appear in the EMNLP proceedings. All accepted technical reports will be presented as posters. <br/>
 
   # - type: schedule.html
   #   section_id: schedule
