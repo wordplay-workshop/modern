@@ -7,8 +7,8 @@ header:
   url: /#overview
 - title: Shared Task
   url: /#shared_task
-# - title: Call For Papers
-#   url: /#cfp
+- title: Call For Papers
+  url: /#cfp
 # - title: Schedule
 #   url: /#schedule
 # - title: Speakers
