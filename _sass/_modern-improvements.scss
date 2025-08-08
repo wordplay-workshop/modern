@@ -10,6 +10,9 @@
   --mystery-purple: #4a148c;
   --ancient-bronze: #cd7f32;
   --scroll-beige: #f5f5dc;
+  --mystical-violet: #6a1b9a;
+  --rune-silver: #c0c0c0;
+  --ethereal-blue: #1e3a8a;
 }
 
 // Enhanced Typography with Adventure Theme
@@ -639,6 +642,70 @@ footer {
   }
 }
 
+.bg-mystical-runes {
+  background: linear-gradient(135deg, var(--mystical-violet) 0%, #3f006f 30%, var(--mystery-purple) 70%, var(--ethereal-blue) 100%) !important;
+  color: var(--parchment);
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+      radial-gradient(circle at 15% 85%, rgba(192, 192, 192, 0.15) 0%, transparent 60%),
+      radial-gradient(circle at 85% 15%, rgba(212, 175, 55, 0.1) 0%, transparent 50%),
+      radial-gradient(circle at 50% 30%, rgba(106, 27, 154, 0.2) 0%, transparent 70%),
+      // Adding mystical rune-like patterns
+      repeating-linear-gradient(
+        45deg,
+        transparent,
+        transparent 40px,
+        rgba(192, 192, 192, 0.03) 42px,
+        rgba(192, 192, 192, 0.03) 44px,
+        transparent 46px
+      ),
+      repeating-linear-gradient(
+        -45deg,
+        transparent,
+        transparent 60px,
+        rgba(212, 175, 55, 0.02) 62px,
+        rgba(212, 175, 55, 0.02) 64px,
+        transparent 66px
+      );
+    pointer-events: none;
+  }
+  
+  h2, h3, h4, h5, h6 {
+    color: var(--rune-silver);
+    position: relative;
+    z-index: 1;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.6), 0 0 15px rgba(192, 192, 192, 0.4);
+  }
+  
+  p, li {
+    color: var(--parchment);
+    position: relative;
+    z-index: 1;
+  }
+  
+  strong {
+    color: var(--treasure-gold);
+  }
+  
+  a {
+    color: var(--rune-silver);
+    text-decoration: underline;
+    
+    &:hover {
+      color: var(--treasure-gold);
+      text-shadow: 0 0 8px rgba(212, 175, 55, 0.5);
+    }
+  }
+}
+
 // Enhanced dividers for different backgrounds
 .bg-treasure-vault hr.divider::after {
   background: var(--midnight-blue);
@@ -659,7 +726,13 @@ footer {
 }
 
 .bg-dungeon-depths hr.divider::after {
-  background: var(--dungeon-gray);
+  background: var(--midnight-blue);
   color: var(--treasure-gold);
-  border-color: var(--treasure-gold);
+  border-color: var(--midnight-blue);
+}
+
+.bg-mystical-runes hr.divider::after {
+  background: var(--mystical-violet);
+  color: var(--rune-silver);
+  border-color: var(--mystical-violet);
 }
