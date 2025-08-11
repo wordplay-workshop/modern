@@ -150,7 +150,7 @@ sections:
       </div>
 
       <div style="text-align: center; margin-bottom: 3em;">
-      <img src="assets/img/sponsor/Sony_logo.svg" alt="Sony" width="300" style="background-color: white; padding: 20px; border-radius: 10px; margin-bottom: 1em;">
+      <img src="assets/img/sponsor/Sony_logo.svg" alt="Sony" width="300" style="background-color: white; padding: 60px; border-radius: 10px; margin-bottom: 1em;">
       <br>
       <p style="max-width: 600px; margin: 0 auto; text-align: left;">
       We gratefully thank Sony for their support in organizing the Wordplay workshop, especially in organizing the CPDC challenge!
