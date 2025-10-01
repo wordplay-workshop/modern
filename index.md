@@ -310,7 +310,7 @@ sections:
         image: assets/img/organizers/ruiyi.jpg
         url: https://ruiyiw.github.io/
       - title: Ruoyao Wang
-        text: University of Arizona
+        text: Central University of Finance and Economics
         image: assets/img/organizers/ruoyao.jpeg
         url: https://ruoyao-wang.github.io/
       - title: Xingdi Yuan
