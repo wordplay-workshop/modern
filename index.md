@@ -183,7 +183,7 @@ sections:
         * [Explore Branches the Story didn't Narrate: An LLM Solution](https://wordplay-workshop.github.io/pdfs/35.pdf)
 
       - >+
-        ** Poster Papers **
+        **Poster Papers**
 
         * [WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models](https://wordplay-workshop.github.io/pdfs/4.pdf)
 
