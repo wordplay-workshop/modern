@@ -7,20 +7,7 @@ header:
     Your one stop shop for all things interactive narrative + AI!
 
   action: # action button is optional
-    labe        * [FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games](https://wordplay-workshop.github.io/pdfs/8.pdf)
-
-        * [Efficient Tool-Calling Multi-Expert NPC Agent for Commonsense Persona-Grounded Dialogue](https://wordplay-workshop.github.io/pdfs/12.pdf)
-
-        * [VLM-Dixit: Investigating Multi-Modal Abductive Reasoning and Entailment Verification with VLMs in Dixit Gameplay](https://wordplay-workshop.github.io/pdfs/26.pdf)
-
-        * [Explore Branches the Story didn't Narrate: An LLM Solution](https://wordplay-workshop.github.io/pdfs/35.pdf)
-
-
-        **Poster Papers**
-
-        * [WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models](https://wordplay-workshop.github.io/pdfs/4.pdf)
-
-        * [CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures](https://wordplay-workshop.github.io/pdfs/5.pdf)the '80s
+    label: Back to the '80s
     url: https://wordplay-workshop.github.io/
 
 
