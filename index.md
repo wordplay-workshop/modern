@@ -7,7 +7,20 @@ header:
     Your one stop shop for all things interactive narrative + AI!
 
   action: # action button is optional
-    label: Back to the '80s
+    labe        * [FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in Diverse Adventure Games](https://wordplay-workshop.github.io/pdfs/8.pdf)
+
+        * [Efficient Tool-Calling Multi-Expert NPC Agent for Commonsense Persona-Grounded Dialogue](https://wordplay-workshop.github.io/pdfs/12.pdf)
+
+        * [VLM-Dixit: Investigating Multi-Modal Abductive Reasoning and Entailment Verification with VLMs in Dixit Gameplay](https://wordplay-workshop.github.io/pdfs/26.pdf)
+
+        * [Explore Branches the Story didn't Narrate: An LLM Solution](https://wordplay-workshop.github.io/pdfs/35.pdf)
+
+
+        **Poster Papers**
+
+        * [WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models](https://wordplay-workshop.github.io/pdfs/4.pdf)
+
+        * [CORE: Measuring Multi-Agent LLM Interaction Quality under Game-Theoretic Pressures](https://wordplay-workshop.github.io/pdfs/5.pdf)the '80s
     url: https://wordplay-workshop.github.io/
 
 
@@ -18,15 +31,13 @@ sections:
     background_style: bg-ancient-scroll
     text: >+
 
-      **Date and time**: November 9th, 2025
+      **Date and time**: November 9th, 2025 - 09:00 to 17:00 (China Standard Time)
 
       **Location**: Suzhou, China
 
       **Shared task:** [Official website](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025)
 
-      **Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay)
-
-      **Submission deadline:** ~~August 29, 2025~~ September 12, 2025, 23:59 (Anywhere On Earth)
+      ~~**Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay)~~
 
       This workshop focused on exploring the utility of interactive narratives, think everything from classic text-adventures like [Zork](http://textadventures.online/play/?story=http%3A%2F%2Fwww.ifarchive.org%2Fif-archive%2Fgames%2Fhugo%2Fhugozork.hex) to modern [Twine](https://twinery.org/) games, to fill a role as the learning environments of choice for language-based tasks including but not limited to storytelling. A few previous iterations of this workshop took place very successfully with hundreds of attendees, at NeurIPS 2018, NeurIPS 2020, NAACL 2022, and ACL 2024. Since then, the community of people working in this area has rapidly increased. This workshop aims to be a centralized place where all researchers involved across a breadth of fields can interact and learn from each other. Furthermore, it will act as a showcase to the wider NLP/RL/Game communities on interactive narrative's place as a learning environment. The program will feature a collection of invited talks in addition to contributed talks and posters from each of these sections of the interactive narrative community and the wider NLP and RL communities.  <br />
 
@@ -46,81 +57,84 @@ sections:
 
       [Check out the full version of our overview!](/modern/full_overview)
 
-  - type: paragraph.html
-    section_id: cfp
-    title: Call For Papers
-    background_style: bg-mystic-forest
-    text: >+
+  # - type: paragraph.html
+  #   section_id: cfp
+  #   title: Call For Papers
+  #   background_style: bg-mystic-forest
+  #   text: >+
 
-      **Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay) 
+  #     **Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay) 
 
-      **Submission deadline:** ~~August 29, 2025~~ September 12, 2025, 23:59 (Anywhere On Earth)
+  #     **Submission deadline:** ~~August 29, 2025~~ September 12, 2025, 23:59 (Anywhere On Earth)
 
-      **Author notification:** September 26, 2025<br/><br/>
+  #     **Author notification:** September 26, 2025<br/><br/>
 
-      We have two tracks:
+  #     We have two tracks:
 
-      **Main track:**
+  #     **Main track:**
 
-      We welcome original research papers ranging between **4-8** pages in length (and unlimited pages for references and supplementary materials), formatted according to [the ACL style](https://acl-org.github.io/ACLPUB/formatting.html). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised.
+  #     We welcome original research papers ranging between **4-8** pages in length (and unlimited pages for references and supplementary materials), formatted according to [the ACL style](https://acl-org.github.io/ACLPUB/formatting.html). Submissions should be in **.pdf** format. Since the review process is **double-blind**, all papers should be appropriately anonymised.
 
-      Authors have the option of including supplementary manuscript containing further details of their work into **the same .pdf file**. It is entirely up to the reviewers to decide whether they wish to consult this additional material. Authors are strongly encouraged to make data and code publicly available whenever possible. The accepted papers will be posted on the workshop website and will not appear in the EMNLP proceedings.
+  #     Authors have the option of including supplementary manuscript containing further details of their work into **the same .pdf file**. It is entirely up to the reviewers to decide whether they wish to consult this additional material. Authors are strongly encouraged to make data and code publicly available whenever possible. The accepted papers will be posted on the workshop website and will not appear in the EMNLP proceedings.
 
-      **Extended Abstracts:** We also welcome extended abstracts of up to **2** pages that describe open problems and challenges in this area. The papers will be non-archival; we welcome papers that have been published or submitted to other places. However, authors are required to acknowledge their papers' original appearance in such cases.
+  #     **Extended Abstracts:** We also welcome extended abstracts of up to **2** pages that describe open problems and challenges in this area. The papers will be non-archival; we welcome papers that have been published or submitted to other places. However, authors are required to acknowledge their papers' original appearance in such cases.
 
-      **Presentation:** All accepted papers and extended abstracts will be presented as posters. The program committee will select a few papers for oral presentation. <br/>
+  #     **Presentation:** All accepted papers and extended abstracts will be presented as posters. The program committee will select a few papers for oral presentation. <br/>
 
-      **CPDC track:**
+  #     **CPDC track:**
 
-      We also welcome participants of [the Common-sense Persona-Grounded Dialogue Challenge (CPDC) competition](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025) to submit technical reports to describe their submitted systems. 
+  #     We also welcome participants of [the Common-sense Persona-Grounded Dialogue Challenge (CPDC) competition](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025) to submit technical reports to describe their submitted systems. 
 
-      **Requirements:**
-      - Papers should be ranging between **4-8** pages in length (and unlimited pages for references and supplementary materials), formatted according to [the ACL style](https://acl-org.github.io/ACLPUB/formatting.html). Submissions should be in **.pdf** format.
-      - Put **CPDC** as a keyword in your submission form.
-      - Mention your CPDC team ID or team name in the technical report submission.
+  #     **Requirements:**
+  #     - Papers should be ranging between **4-8** pages in length (and unlimited pages for references and supplementary materials), formatted according to [the ACL style](https://acl-org.github.io/ACLPUB/formatting.html). Submissions should be in **.pdf** format.
+  #     - Put **CPDC** as a keyword in your submission form.
+  #     - Mention your CPDC team ID or team name in the technical report submission.
 
-      We encourage all CPDC participants to submit and share their work. After light review, the accepted technical reports will be posted on the workshop website and will not appear in the EMNLP proceedings. All accepted technical reports will be presented as posters.
+  #     We encourage all CPDC participants to submit and share their work. After light review, the accepted technical reports will be posted on the workshop website and will not appear in the EMNLP proceedings. All accepted technical reports will be presented as posters.
 
-      Authors of accepted papers will be invited to present their work in a poster session (in-person or remote), the workshop committee will select a subset of submissions as spotlight talks. <br/>
+  #     Authors of accepted papers will be invited to present their work in a poster session (in-person or remote), the workshop committee will select a subset of submissions as spotlight talks. <br/>
 
-  # - type: schedule.html
-  #   section_id: schedule
-  #   title: Schedule - Friday, August 16<sup>th</sup> (Bangkok Time)
-  #   background_style: bg-lightdark
-  #   events:
-  #     - time: 09:20&nbsp;&ndash;&nbsp;09:40
-  #       title: "Opening Remarks"
-  #       et: Eastern Time 22:20&nbsp;&ndash;&nbsp;22:40 (Aug 15)
-  #     - time: 09:40&nbsp;&ndash;&nbsp;10:30
-  #       title: Keynote 1 - Ida Momennejad (remote)
-  #       et: Eastern Time 22:40&nbsp;&ndash;&nbsp;23:30 (Aug 15)
-  #     - time: 10:30&nbsp;&ndash;&nbsp;11:00
-  #       title: Coffee Break & Poster Session 1
-  #       et: Eastern Time 23:30&nbsp;&ndash;&nbsp;midnight (Aug 15)
-  #     - time: 11:00&nbsp;&ndash;&nbsp;11:50
-  #       title: Keynote 2 - Yoav Artzi (remote)
-  #       et: Eastern Time 00:00&nbsp;&ndash;&nbsp;00:50
-  #     - time: 11:50&nbsp;&ndash;&nbsp;12:40
-  #       title: Keynote 3 - Emily Dinan (remote)
-  #       et: Eastern Time 00:50&nbsp;&ndash;&nbsp;01:40
-  #     - time: 12:40&nbsp;&ndash;&nbsp;13:40
-  #       title: Lunch Break & Poster Session 2
-  #       et: Eastern Time 01:40&nbsp;&ndash;&nbsp;02:40
-  #     - time: 13:40&nbsp;&ndash;&nbsp;14:40
-  #       title: Lightning talks by remote presenters (recordings)
-  #       et: Eastern Time 02:40&nbsp;&ndash;&nbsp;03:40
-  #     - time: 14:40&nbsp;&ndash;&nbsp;15:30
-  #       title: Keynote 4 - Bodhisattwa Prasad Majumder (in-person)
-  #       et: Eastern Time 03:40&nbsp;&ndash;&nbsp;04:30
-  #     - time: 15:30&nbsp;&ndash;&nbsp;16:00
-  #       title: Coffee Break & Poster Session 3
-  #       et: Eastern Time 04:30&nbsp;&ndash;&nbsp;05:00
-  #     - time: 16:00&nbsp;&ndash;&nbsp;16:50
-  #       title: Keynote 5 - Joyce Chai (in-person)
-  #       et: Eastern Time 05:00&nbsp;&ndash;&nbsp;05:50
-  #     - time: 16:50&nbsp;&ndash;&nbsp;17:00
-  #       title: Closing Remarks
-  #       et: Eastern Time 05:50&nbsp;&ndash;&nbsp;06:00
+  - type: schedule.html
+    section_id: schedule
+    title: Schedule - Sunday, November 9<sup>th</sup> (China Time)
+    background_style: bg-lightdark
+    events:
+      - time: 08:55&nbsp;&ndash;&nbsp;09:00
+        title: "Opening Remarks"
+        et: Pacific Time 16:55&nbsp;&ndash;&nbsp;17:00 (Nov 8)
+      - time: 09:00&nbsp;&ndash;&nbsp;09:45
+        title: Invited Talk 1
+        et: Pacific Time 17:00&nbsp;&ndash;&nbsp;17:45 (Nov 8)
+      - time: 09:45&nbsp;&ndash;&nbsp;10:30
+        title: Invited Talk 2
+        et: Pacific Time 17:45&nbsp;&ndash;&nbsp;18:30 (Nov 8)
+      - time: 10:30&nbsp;&ndash;&nbsp;11:00
+        title: Coffee Break (30 minutes)
+        et: Pacific Time 18:30&nbsp;&ndash;&nbsp;19:00 (Nov 8)
+      - time: 11:00&nbsp;&ndash;&nbsp;12:00
+        title: Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025
+        et: Pacific Time 19:00&nbsp;&ndash;&nbsp;20:00 (Nov 8)
+      - time: 12:00&nbsp;&ndash;&nbsp;13:00
+        title: Lunch Break and Posters (60 minutes)
+        et: Pacific Time 20:00&nbsp;&ndash;&nbsp;21:00 (Nov 8)
+      - time: 13:00&nbsp;&ndash;&nbsp;14:00
+        title: Lightning Talks
+        et: Pacific Time 21:00&nbsp;&ndash;&nbsp;22:00 (Nov 8)
+      - time: 14:00&nbsp;&ndash;&nbsp;14:45
+        title: Invited Talk 3
+        et: Pacific Time 22:00&nbsp;&ndash;&nbsp;22:45 (Nov 8)
+      - time: 14:45&nbsp;&ndash;&nbsp;15:30
+        title: Invited Talk 4
+        et: Pacific Time 22:45&nbsp;&ndash;&nbsp;23:30 (Nov 8)
+      - time: 15:30&nbsp;&ndash;&nbsp;16:00
+        title: Coffee Break (30 minutes)
+        et: Pacific Time 23:30&nbsp;&ndash;&nbsp;midnight (Nov 8)
+      - time: 16:00&nbsp;&ndash;&nbsp;16:45
+        title: Invited Talk 5
+        et: Pacific Time 00:00&nbsp;&ndash;&nbsp;00:45
+      - time: 16:45&nbsp;&ndash;&nbsp;17:00
+        title: Closing Remarks
+        et: Pacific Time 00:45&nbsp;&ndash;&nbsp;01:00
 
   - type: paragraph.html
     section_id: shared_task
@@ -164,121 +178,146 @@ sections:
       If you're interested in sponsoring the Wordplay Workshop, please contact us at [wordplay.workshop.organizers@gmail.com](mailto:wordplay.workshop.organizers@gmail.com) for more information about sponsorship opportunities.
 
 
-  # - type: invited_speakers.html
-  #   section_id: invited_speakers
-  #   title: Speakers
-  #   background_style: bg-dark text-white
-    # members:
-    #   - title: Yoav Artzi
-    #     text: Cornell University
-    #     image: assets/img/invited_speakers/yoav.png
-    #     url: https://yoavartzi.com/
-    #   - title: Joyce Chai
-    #     text: University of Michigan
-    #     image: assets/img/invited_speakers/joyce.jpeg
-    #     url: https://web.eecs.umich.edu/~chaijy/
-    #   - title: Emily Dinan
-    #     text: Meta AI Research
-    #     image: assets/img/invited_speakers/emily.jpeg
-    #     url: https://ai.meta.com/people/767581351981566/emily-dinan/
-    #   - title: Bodhisattwa Prasad Majumder
-    #     text: Allen Institute for AI
-    #     image: assets/img/invited_speakers/bodhi.jpg
-    #     url: https://www.majumderb.com/
-    #   - title: Ida Momennejad
-    #     text: Microsoft Research
-    #     image: assets/img/invited_speakers/ida.webp
-    #     url: https://www.momen-nejad.org/
+  - type: invited_speakers.html
+    section_id: invited_speakers
+    title: Speakers
+    background_style: bg-dark text-white
+    members:
+      - title: Diyi Yang
+        text: Stanford University
+        image: assets/img/invited_speakers/diyi.jpg
+        url: https://cs.stanford.edu/~diyiy/
+      - title: Sudha Rao
+        text: Microsoft
+        image: assets/img/invited_speakers/sudha.jpg
+        url: https://www.microsoft.com/en-us/research/people/sudhra/
+      - title: Xin Wang
+        text: University of California Santa Barbara (UCSB) & Simular
+        image: assets/img/invited_speakers/xin.jpg
+        url: https://eric-xw.github.io/
+      - title: Boyang Li
+        text: Nanyang Technological University (NTU)
+        image: assets/img/invited_speakers/boyang.jpg
+        url: http://www.boyangli.org
+      - title: Jaewoo Ahn
+        text: Seoul National University (SNU)
+        image: assets/img/invited_speakers/jaewoo.jpg
+        url: https://ahnjaewoo.github.io/
 
-  # - type: paragraphs.html
-  #   section_id: accepted_papers
-  #   title: Accepted Papers
-  #   background_style: bg-lightdark
-  #   texts:
-  #     - >+
-  #       * [Large Language Models as Minecraft Agents](https://wordplay-workshop.github.io/pdfs/1.pdf)
+  - type: paragraphs.html
+    section_id: accepted_papers
+    title: Accepted Papers
+    background_style: bg-lightdark
+    texts:
+      - >+
+        **Outstanding Papers**
 
-  #       * [Scaling Instructable Agents Across Many Simulated Worlds](https://wordplay-workshop.github.io/pdfs/2.pdf)
+        * [Orak: A Foundational Benchmark for Training and Evaluating LLM Agents on Diverse Video Games](https://wordplay-workshop.github.io/pdfs/9.pdf)
 
-  #       * [Trace is the New AutoDiff — Unlocking Efficient Optimization of Computational Workflows](https://wordplay-workshop.github.io/pdfs/3.pdf)
+        * [Wordcaster: A Gamified Speech-Based Reading Game for Young Learners Using Real-Time ASR](https://wordplay-workshop.github.io/pdfs/3.pdf)
 
-  #       * [Hybrid Dialogue Management for Task-Oriented Dialogue in Video Games](https://wordplay-workshop.github.io/pdfs/4.pdf)
+        * [Real-Time World Crafting: Generating Structured Game Behaviors from Natural Language with Large Language Models](https://wordplay-workshop.github.io/pdfs/15.pdf)
 
-  #       * [PLUGH: A Benchmark for Spatial Understanding and Reasoning in Large Language Models](https://wordplay-workshop.github.io/pdfs/6.pdf)
+        * [Model Fusion with Multi-LoRA Inference for Tool-Enhanced Game Dialogue Agents](https://wordplay-workshop.github.io/pdfs/19.pdf)
 
-  #       * [Communicate to Play: Pragmatic Reasoning for Efficient Cross-Cultural Communication in Codenames](https://wordplay-workshop.github.io/pdfs/7.pdf)
 
-  #       * [“Hunt Takes Hare”: Theming Games Through Game-Word Vector Translation](https://wordplay-workshop.github.io/pdfs/8.pdf)
+        **Spotlight Papers**
 
-  #       * [Scaffolding Coordinates to Promote Vision-Language Coordination in Large Multi-Modal Models](https://wordplay-workshop.github.io/pdfs/10.pdf)
+        * [Can They Dixit? Yes they Can! Dixit as a Playground for Multimodal Language Model Capabilities](https://wordplay-workshop.github.io/pdfs/1.pdf)
 
-  #       * [You Have Thirteen Hours in Which to Solve the Labyrinth: Enhancing AI Game Masters with Function Calling](https://wordplay-workshop.github.io/pdfs/11.pdf)
+        * [TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning](https://wordplay-workshop.github.io/pdfs/2.pdf)
 
-  #       * [Strategic Insights in Human and Large Language Model Tactics at Word Guessing Games](https://wordplay-workshop.github.io/pdfs/12.pdf)
+        * [Talk Less, Call Right: Enhancing Role-Play LLM Agents with Automatic Prompt Optimization and Role Prompting](https://wordplay-workshop.github.io/pdfs/7.pdf)
 
-  #       * [DAGGER: Data Augmentation for Generative Gaming in Enriched Realms](https://wordplay-workshop.github.io/pdfs/13.pdf)
+        * [Hybrid Dialogue Management for Task-Oriented Dialogue in Video Games](https://wordplay-workshop.github.io/pdfs/4.pdf)
 
-  #       * [Collaborative Quest Completion with LLM-driven Non-Player Characters in Minecraft](https://wordplay-workshop.github.io/pdfs/14.pdf)
+        * [PLUGH: A Benchmark for Spatial Understanding and Reasoning in Large Language Models](https://wordplay-workshop.github.io/pdfs/6.pdf)
 
-  #       * [WorldWeaver: Procedural World Generation for Text Adventure Games using Large Language Models](https://wordplay-workshop.github.io/pdfs/15.pdf)
+        * [Communicate to Play: Pragmatic Reasoning for Efficient Cross-Cultural Communication in Codenames](https://wordplay-workshop.github.io/pdfs/7.pdf)
 
-  #       * [Improvisational Games as a Benchmark for Social Intelligence of AI Agents: The Case of Connections](https://wordplay-workshop.github.io/pdfs/16.pdf)
+        * [“Hunt Takes Hare”: Theming Games Through Game-Word Vector Translation](https://wordplay-workshop.github.io/pdfs/8.pdf)
 
-  #       * [Guiding and Diversifying LLM-Based Story Generation via Answer Set Programming](https://wordplay-workshop.github.io/pdfs/17.pdf)
+        * [Scaffolding Coordinates to Promote Vision-Language Coordination in Large Multi-Modal Models](https://wordplay-workshop.github.io/pdfs/10.pdf)
 
-  #       * [Outwit, Outplay, Out-Generate: A Framework for Designing Strategic Generative Agents in Competitive Environments](https://wordplay-workshop.github.io/pdfs/18.pdf)
+        * [You Have Thirteen Hours in Which to Solve the Labyrinth: Enhancing AI Game Masters with Function Calling](https://wordplay-workshop.github.io/pdfs/11.pdf)
 
-  #       * [Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games](https://wordplay-workshop.github.io/pdfs/19.pdf)
+        * [Memory-Augmented Language Models for Persistent Interactive Narratives](https://wordplay-workshop.github.io/pdfs/10.pdf)
 
-  #       * [Toward Human-AI Alignment in Large-Scale Multi-Player Games](https://wordplay-workshop.github.io/pdfs/20.pdf)
+        * [Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents](https://wordplay-workshop.github.io/pdfs/11.pdf)
 
-  #       * [BERALL: Towards Generating Retrieval-augmented State-based Interactive Fiction Games](https://wordplay-workshop.github.io/pdfs/21.pdf)
+        * [Design Techniques for LLM-Powered Interactive Storytelling: A Case Study of the Dramamancer System](https://wordplay-workshop.github.io/pdfs/16.pdf)
 
-  #       * [Evaluating Creativity and Deception in Large Language Models: A Simulation Framework for Multi-Agent Balderdash](https://wordplay-workshop.github.io/pdfs/22.pdf)
+        * [MATE: Explore the Reasoning Capability of LLMs in the Chess Testbed](https://wordplay-workshop.github.io/pdfs/17.pdf)
 
-  #       * [Thespian: Multi-Character Text Role-Playing Game Agents](https://wordplay-workshop.github.io/pdfs/23.pdf)
+        * [TRPG Game Mastering Using LLM-Based Multi-Agent System](https://wordplay-workshop.github.io/pdfs/20.pdf)
 
-  #       * [AmongAgents: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game](https://wordplay-workshop.github.io/pdfs/24.pdf)
+        * [Two-Stage Tool-Enhanced NPC Dialogue for CPDC 2025: GPU-Track Submission to Task 1 and Task 2](https://wordplay-workshop.github.io/pdfs/21.pdf)
 
-  #       * [AMAN: Agent for Mentoring and Assisting Newbies in MMORPG](https://wordplay-workshop.github.io/pdfs/25.pdf)
+        * [GenQuest: An LLM-based Text Adventure Game for Language Learners](https://wordplay-workshop.github.io/pdfs/22.pdf)
 
-  #       * [What if Red Can Talk? Dynamic Dialogue Generation Using Large Language Models](https://wordplay-workshop.github.io/pdfs/26.pdf)
+        * [BaZi-Based Character Simulation Benchmark: Evaluating AI on Temporal and Persona Reasoning](https://wordplay-workshop.github.io/pdfs/23.pdf)
 
-  # - type: paragraphs.html
-  #   section_id: reviewers
-  #   title: Reviewers
-  #   background_style: bg-lightdark
-  #   texts:
-  #     - >+
-  #       * Christopher Zhang Cui (UC San Diego)
-  
-  #       * Daphne Ippolito (CMU)
+        * [Inference-Time Value Alignment in Offline Reinforcement Learning: Leveraging LLMs for Reward and Ethical Guidance](https://wordplay-workshop.github.io/pdfs/24.pdf)
 
-  #       * Kawshik Kannan (Covera Health)
+        * [LLM-Hanabi: Evaluating Multi-Agent Gameplays with Theory-of-Mind and Rationale Inference in Imperfect Information Collaboration Game](https://wordplay-workshop.github.io/pdfs/25.pdf)
 
-  #       * Jack Kelly (UC Santa Cruz)
+        * [Exploring Cooperative Behavior in LLMs with Game Theory](https://wordplay-workshop.github.io/pdfs/27.pdf)
 
-  #       * Ziqian Luo (Oracle)
+        * [Interactive AI NPCs Powered by LLMs: Technical Report for the CPDC Challenge 2025](https://wordplay-workshop.github.io/pdfs/28.pdf)
 
-  #       * Dana Moukheiber (MIT)
+        * [Does Reasoning Help LLM Agents Play Dungeons and Dragons? A Prompt Engineering Experiment](https://wordplay-workshop.github.io/pdfs/29.pdf)
 
-  #       * Michelle Pan (UC Berkeley)
+        * [Sarc7: Evaluating Sarcasm Detection and Generation with Seven Types and Emotion-Informed Techniques](https://wordplay-workshop.github.io/pdfs/30.pdf)
 
-  #       * Sashrika Pandey (UC Berkeley)
+        * [Probe-Rewrite-Evaluate: A Workflow for Reliable Benchmarks and Quantifying Evaluation Awareness](https://wordplay-workshop.github.io/pdfs/31.pdf)
 
-  #       * Xiangyu Peng (Georgia Tech)
+        * [DefenderBench: A Toolkit for Evaluating Language Agents in Cybersecurity Environments](https://wordplay-workshop.github.io/pdfs/32.pdf)
 
-  #       * Yewen Pu (Autodesk)
+        * [Evaluating LLM Story Generation through Large-scale Network Analysis of Social Structures](https://wordplay-workshop.github.io/pdfs/33.pdf)
 
-  #       * Graham Todd (NYU)
+        * [ByteSized32Refactored: Towards an Extensible Interactive Text Games Corpus for LLM World Modeling and Evaluation](https://wordplay-workshop.github.io/pdfs/34.pdf)
 
-  #       * Saujas Vaduguru (CMU)
+        * [On Generating Consistent and Attractive Promotional Introduction Text for Narrative Media Arts](https://wordplay-workshop.github.io/pdfs/36.pdf)
 
-  #       * Ruoyao Wang (University of Arizona)
+        * [Deflanderization for Game Dialogue: Balancing Character Authenticity with Task Execution in LLM-based NPCs](https://wordplay-workshop.github.io/pdfs/37.pdf)
 
-  #       * Ziang Xiao (JHU)
+        * [Beyond One World: Benchmarking Super Heros in Role-Playing Across Multiversal Contexts](https://wordplay-workshop.github.io/pdfs/39.pdf)
 
-  #       * Kunlun Zhu (Mila)
+        * [Rational Irrationality: Evaluating LLMs in Games with Strategic Behavior Discrepancies](https://wordplay-workshop.github.io/pdfs/40.pdf)
+
+        * [Shall We Play a Game? Language Models for Open-ended Wargames](https://wordplay-workshop.github.io/pdfs/41.pdf)
+
+  - type: paragraphs.html
+    section_id: reviewers
+    title: Reviewers
+    background_style: bg-lightdark
+    texts:
+      - >+
+        * Anchao Li (ByteDance)
+
+        * Arya Honraopatil (University of Maryland, Baltimore County)
+
+        * Ashutosh Adhikari (University of Edinburgh)
+
+        * Christopher Zhang Cui (University of California, San Diego)
+
+        * Hosein Rezaei (University of York)
+
+        * Kuan Lu (Cornell University)
+
+        * Marcus McAllister (University of Maryland, Baltimore County)
+
+        * Mete Ismayilzada (Swiss Federal Technology Institute of Lausanne)
+
+        * Nischal Reddy Chandra (Adobe)
+
+        * Patricia J Delafuente (University of Maryland, Baltimore County)
+
+        * Samuel Barry (Mistral AI)
+
+        * Shadab Hafiz Choudhury (University of Maryland, Baltimore County)
+
+        * Silin Gao (Swiss Federal Technology Institute of Lausanne)
 
   - type: organizers.html
     section_id: organizers
@@ -286,11 +325,11 @@ sections:
     background_style: bg-dungeon-depths
     members:
       - title: Prithviraj Ammanabrolu
-        text: MosaicML & University of California, San Diego (UCSD)
+        text: University of California, San Diego (UCSD) & Nvidia
         image: assets/img/organizers/raj.jpg
         url: http://prithvirajva.com
       - title: Antoine Bosselut
-        text: EPFL
+        text: École Polytechnique Fédérale de Lausanne (EPFL)
         image: assets/img/organizers/antoine.jpg
         url: https://atcbosselut.github.io/
       - title: Marc-Alexandre Côté
@@ -302,7 +341,7 @@ sections:
         image: assets/img/organizers/lara.jpeg
         url: https://laramartin.net/
       - title: Hiromi Wakaki
-        text: Sony Group Corporation (Sony)
+        text: Sony AI
         image: assets/img/organizers/hiromi.jpg
         url: https://scholar.google.co.jp/citations?user=lv41luwAAAAJ&hl=ja
       - title: Ruiyi Wang
