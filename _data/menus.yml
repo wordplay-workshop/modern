@@ -7,17 +7,17 @@ header:
   url: /#overview
 - title: Shared Task
   url: /#shared_task
-- title: Call For Papers
-  url: /#cfp
+# - title: Call For Papers
+  # url: /#cfp
 - title: Sponsors
   url: /#sponsors
-# - title: Schedule
-#   url: /#schedule
-# - title: Speakers
-#   url: /#invited_speakers
-# - title: Accepted Papers
-#   url: /#accepted_papers
+- title: Schedule
+  url: /#schedule
+- title: Speakers
+  url: /#invited_speakers
+- title: Accepted Papers
+  url: /#accepted_papers
 - title: Organizers
   url: /#organizers
-# - title: Reviewers
-#   url: /#reviewers
+- title: Reviewers
+  url: /#reviewers
