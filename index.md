@@ -130,7 +130,7 @@ sections:
     members:
       - title: Diyi Yang
         text: Stanford University
-        image: assets/img/invited_speakers/diyi.jpg
+        image: assets/img/invited_speakers/diyi.png
         url: https://cs.stanford.edu/~diyiy/
       - title: Sudha Rao
         text: Microsoft
