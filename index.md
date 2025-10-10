@@ -90,10 +90,10 @@ sections:
         title: "Opening Remarks"
         et: Pacific Time 16:55&nbsp;&ndash;&nbsp;17:00 (Nov 8)
       - time: 09:00&nbsp;&ndash;&nbsp;09:45
-        title: "## Invited Talk 1\n-*Sudha Rao*-"
+        title: "#### Invited Talk 1\n-*Sudha Rao*-"
         et: Pacific Time 17:00&nbsp;&ndash;&nbsp;17:45 (Nov 8)
       - time: 09:45&nbsp;&ndash;&nbsp;10:30
-        title: "### Invited Talk 2\n-*Xin (Eric) Wang*-"
+        title: "#### Invited Talk 2\n-*Xin (Eric) Wang*-"
         et: Pacific Time 17:45&nbsp;&ndash;&nbsp;18:30 (Nov 8)
       - time: 10:30&nbsp;&ndash;&nbsp;11:00
         title: Coffee Break (30 minutes)
@@ -108,16 +108,16 @@ sections:
         title: Lightning Talks
         et: Pacific Time 21:00&nbsp;&ndash;&nbsp;22:00 (Nov 8)
       - time: 14:00&nbsp;&ndash;&nbsp;14:45
-        title: "## Beyond Exams: Evaluating LLM Agents Through Interactive Collaboration and Competition\n-*Diyi Yang*-"
+        title: "#### Beyond Exams: Evaluating LLM Agents Through Interactive Collaboration and Competition\n-*Diyi Yang*-"
         et: Pacific Time 22:00&nbsp;&ndash;&nbsp;22:45 (Nov 8)
       - time: 14:45&nbsp;&ndash;&nbsp;15:30
-        title: "## Invited Talk 4\n-*Boyang Li*-"
+        title: "#### Invited Talk 4\n-*Boyang Li*-"
         et: Pacific Time 22:45&nbsp;&ndash;&nbsp;23:30 (Nov 8)
       - time: 15:30&nbsp;&ndash;&nbsp;16:00
         title: Coffee Break (30 minutes)
         et: Pacific Time 23:30&nbsp;&ndash;&nbsp;midnight (Nov 8)
       - time: 16:00&nbsp;&ndash;&nbsp;16:45
-        title: "## LLM Agents for In-the-Wild Video Game-Playing\n-*Jaewoo Ahn*-"
+        title: "#### LLM Agents for In-the-Wild Video Game-Playing\n-*Jaewoo Ahn*-"
         et: Pacific Time 00:00&nbsp;&ndash;&nbsp;00:45
       - time: 16:45&nbsp;&ndash;&nbsp;17:00
         title: Closing Remarks
