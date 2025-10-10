@@ -302,6 +302,10 @@ hr.divider {
     position: relative;
     z-index: 1;
   }
+
+  h2, h3 {
+    color: var(--midnight-blue);
+  }
   
   h3 {
     margin-top: 1.5rem;
