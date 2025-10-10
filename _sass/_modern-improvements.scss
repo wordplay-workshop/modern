@@ -306,7 +306,11 @@ hr.divider {
   h2, h3, h4, h5, h6 {
     color: var(--midnight-blue);
   }
-  
+
+  details {
+    color: var(--dungeon-gray);
+  }
+
   h3 {
     margin-top: 1.5rem;
     margin-bottom: 0.5rem;
