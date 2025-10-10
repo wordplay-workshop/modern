@@ -90,10 +90,10 @@ sections:
         title: "Opening Remarks"
         et: Pacific Time 16:55&nbsp;&ndash;&nbsp;17:00 (Nov 8)
       - time: 09:00&nbsp;&ndash;&nbsp;09:45
-        title: "# Invited Talk 1\n-*Sudha Rao*-"
+        title: "## Invited Talk 1\n-*Sudha Rao*-"
         et: Pacific Time 17:00&nbsp;&ndash;&nbsp;17:45 (Nov 8)
       - time: 09:45&nbsp;&ndash;&nbsp;10:30
-        title: "# Invited Talk 2\n-*Xin (Eric) Wang*-"
+        title: "### Invited Talk 2\n-*Xin (Eric) Wang*-"
         et: Pacific Time 17:45&nbsp;&ndash;&nbsp;18:30 (Nov 8)
       - time: 10:30&nbsp;&ndash;&nbsp;11:00
         title: Coffee Break (30 minutes)
