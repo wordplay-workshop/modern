@@ -119,6 +119,8 @@ sections:
       - time: 16:00&nbsp;&ndash;&nbsp;16:45
         title: "#### LLM Agents for In-the-Wild Video Game-Playing\n-*Jaewoo Ahn*-"
         et: Pacific Time 00:00&nbsp;&ndash;&nbsp;00:45
+        abstract: >
+          Recent advancements in Large Language Models (LLMs) have showcased their impressive capabilities in various language tasks. However, traditional evaluation methods often fall short in capturing the full spectrum of LLMs' abilities, particularly in interactive and dynamic contexts. This talk explores the limitations of conventional benchmarks and proposes a shift towards evaluating LLM agents through interactive collaboration and competition. By engaging LLMs in multi-agent environments, we can better assess their adaptability, problem-solving skills, and social intelligence. This approach not only provides a more comprehensive understanding of LLM capabilities but also paves the way for developing more robust and versatile AI systems.
       - time: 16:45&nbsp;&ndash;&nbsp;17:00
         title: Closing Remarks
         et: Pacific Time 00:45&nbsp;&ndash;&nbsp;01:00
