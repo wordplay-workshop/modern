@@ -108,16 +108,16 @@ sections:
         title: Lightning Talks
         et: Pacific Time 21:00&nbsp;&ndash;&nbsp;22:00 (Nov 8)
       - time: 14:00&nbsp;&ndash;&nbsp;14:45
-        title: "Diyi Yang - Beyond Exams: Evaluating LLM Agents Through Interactive Collaboration and Competition"
+        title: "## Beyond Exams: Evaluating LLM Agents Through Interactive Collaboration and Competition\n-*Diyi Yang*-"
         et: Pacific Time 22:00&nbsp;&ndash;&nbsp;22:45 (Nov 8)
       - time: 14:45&nbsp;&ndash;&nbsp;15:30
-        title: "Boyang Li - Invited Talk 4"
+        title: "## Invited Talk 4\n-*Boyang Li*-"
         et: Pacific Time 22:45&nbsp;&ndash;&nbsp;23:30 (Nov 8)
       - time: 15:30&nbsp;&ndash;&nbsp;16:00
         title: Coffee Break (30 minutes)
         et: Pacific Time 23:30&nbsp;&ndash;&nbsp;midnight (Nov 8)
       - time: 16:00&nbsp;&ndash;&nbsp;16:45
-        title: "Jaewoo Ahn - LLM Agents for In-the-Wild Video Game-Playing"
+        title: "## LLM Agents for In-the-Wild Video Game-Playing\n-*Jaewoo Ahn*-"
         et: Pacific Time 00:00&nbsp;&ndash;&nbsp;00:45
       - time: 16:45&nbsp;&ndash;&nbsp;17:00
         title: Closing Remarks
