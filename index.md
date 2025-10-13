@@ -90,26 +90,31 @@ sections:
         title: "Opening Remarks"
         et: Pacific Time 16:55&nbsp;&ndash;&nbsp;17:00 (Nov 8)
       - time: 09:00&nbsp;&ndash;&nbsp;09:45
-        title: "#### Invited Talk 1\n-*Sudha Rao*-"
+        title: "#### Using generative AI to transform narrative design in games\n-*Sudha Rao*-"
         et: Pacific Time 17:00&nbsp;&ndash;&nbsp;17:45 (Nov 8)
+        abstract: >
+          In our team at Microsoft Research, we have been exploring how generative AI can transform narrative design games. In the first part of the talk, I will introduce GENEVA, a prototype tool for generating and visualizing branching narratives using large language models (LLMs). This tool allows narrative designers to develop and iterate narratives much faster than traditional tools. In the second part, I will present a case study on how generative AI can evolve game narratives in real-time based on player feedback. The goal of this work is to understand how players, game creators and generative AI can collaboratively create and evolve a game's narrative over time. Learn more about our team's work on our website -- [https://msr-emergence.com/](https://msr-emergence.com/).
       - time: 09:45&nbsp;&ndash;&nbsp;10:30
         title: "#### Invited Talk 2\n-*Xin (Eric) Wang*-"
         et: Pacific Time 17:45&nbsp;&ndash;&nbsp;18:30 (Nov 8)
       - time: 10:30&nbsp;&ndash;&nbsp;11:00
         title: Coffee Break (30 minutes)
         et: Pacific Time 18:30&nbsp;&ndash;&nbsp;19:00 (Nov 8)
-      - time: 11:00&nbsp;&ndash;&nbsp;12:00
-        title: Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025
-        et: Pacific Time 19:00&nbsp;&ndash;&nbsp;20:00 (Nov 8)
-      - time: 12:00&nbsp;&ndash;&nbsp;13:00
-        title: Lunch Break and Posters (60 minutes)
-        et: Pacific Time 20:00&nbsp;&ndash;&nbsp;21:00 (Nov 8)
-      - time: 13:00&nbsp;&ndash;&nbsp;14:00
-        title: Lightning Talks
-        et: Pacific Time 21:00&nbsp;&ndash;&nbsp;22:00 (Nov 8)
-      - time: 14:00&nbsp;&ndash;&nbsp;14:45
+      - time: 11:00&nbsp;&ndash;&nbsp;11:45
         title: "#### Beyond Exams: Evaluating LLM Agents Through Interactive Collaboration and Competition\n-*Diyi Yang*-"
-        et: Pacific Time 22:00&nbsp;&ndash;&nbsp;22:45 (Nov 8)
+        et: Pacific Time 19:00&nbsp;&ndash;&nbsp;19:45 (Nov 8)
+      - time: 11:45&nbsp;&ndash;&nbsp;12:00
+        title: Lightning Talks - Outstanding Papers
+        et: Pacific Time 19:45&nbsp;&ndash;&nbsp;20:00 (Nov 8)
+      - time: 12:00&nbsp;&ndash;&nbsp;13:15
+        title: Lunch Break and Posters (75 minutes)
+        et: Pacific Time 20:00&nbsp;&ndash;&nbsp;21:15 (Nov 8)
+      - time: 13:15&nbsp;&ndash;&nbsp;13:45
+        title: Lightning Talks - Spotlight Papers
+        et: Pacific Time 21:15&nbsp;&ndash;&nbsp;21:45 (Nov 8)
+      - time: 13:45&nbsp;&ndash;&nbsp;14:45
+        title: Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025
+        et: Pacific Time 21:45&nbsp;&ndash;&nbsp;22:45 (Nov 8)
       - time: 14:45&nbsp;&ndash;&nbsp;15:30
         title: "#### Invited Talk 4\n-*Boyang Li*-"
         et: Pacific Time 22:45&nbsp;&ndash;&nbsp;23:30 (Nov 8)
