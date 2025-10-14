@@ -309,7 +309,7 @@ sections:
         image: assets/img/organizers/lara.jpeg
         url: https://laramartin.net/
       - title: Hiromi Wakaki
-        text: Sony AI
+        text: Sony Group Corporation
         image: assets/img/organizers/hiromi.jpg
         url: https://scholar.google.co.jp/citations?user=lv41luwAAAAJ&hl=ja
       - title: Ruiyi Wang
