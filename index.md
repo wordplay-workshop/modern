@@ -116,7 +116,7 @@ sections:
         title: Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025
         et: Pacific Time 21:45&nbsp;&ndash;&nbsp;22:45 (Nov 8)
       - time: 14:45&nbsp;&ndash;&nbsp;15:30
-        title: "#### Invited Talk 4\n-*Boyang Li*-"
+        title: "#### Causality and Intention: What narrative understanding teaches us about AGI\n-*Boyang Li*-"
         et: Pacific Time 22:45&nbsp;&ndash;&nbsp;23:30 (Nov 8)
       - time: 15:30&nbsp;&ndash;&nbsp;16:00
         title: Coffee Break (30 minutes)
