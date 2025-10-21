@@ -95,7 +95,7 @@ sections:
         abstract: >
           In our team at Microsoft Research, we have been exploring how generative AI can transform narrative design games. In the first part of the talk, I will introduce GENEVA, a prototype tool for generating and visualizing branching narratives using large language models (LLMs). This tool allows narrative designers to develop and iterate narratives much faster than traditional tools. In the second part, I will present a case study on how generative AI can evolve game narratives in real-time based on player feedback. The goal of this work is to understand how players, game creators and generative AI can collaboratively create and evolve a game's narrative over time. Learn more about our team's work on our website -- [https://msr-emergence.com/](https://msr-emergence.com/).
       - time: 09:45&nbsp;&ndash;&nbsp;10:30
-        title: "#### Invited Talk 2\n-*Xin (Eric) Wang*-"
+        title: "#### Building AI Agents that Reason and Act Like Humans\n-*Xin (Eric) Wang*-"
         et: Pacific Time 17:45&nbsp;&ndash;&nbsp;18:30 (Nov 8)
       - time: 10:30&nbsp;&ndash;&nbsp;11:00
         title: Coffee Break (30 minutes)
