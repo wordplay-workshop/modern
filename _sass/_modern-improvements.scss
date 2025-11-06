@@ -33,7 +33,7 @@ header.masthead {
   background-attachment: fixed;
   position: relative;
   overflow: hidden;
-  
+
   &::before {
     content: '';
     position: absolute;
@@ -41,20 +41,20 @@ header.masthead {
     left: 0;
     right: 0;
     bottom: 0;
-    background: 
+    background:
       radial-gradient(circle at 20% 80%, rgba(212, 175, 55, 0.1) 0%, transparent 50%),
       radial-gradient(circle at 80% 20%, rgba(0, 255, 65, 0.05) 0%, transparent 50%),
       linear-gradient(to bottom, transparent 0%, rgba(0,0,0,0.2) 100%);
     pointer-events: none;
   }
-  
+
   h1 {
     text-shadow: 0 2px 4px rgba(0,0,0,0.5), 0 0 20px rgba(212, 175, 55, 0.3);
     font-weight: 300;
     letter-spacing: -0.02em;
     color: var(--parchment);
   }
-  
+
   p {
     text-shadow: 0 1px 2px rgba(0,0,0,0.3);
     font-weight: 300;
@@ -66,7 +66,7 @@ header.masthead {
 .page-section {
   padding: 6rem 0;
   position: relative;
-  
+
   @media (max-width: 768px) {
     padding: 4rem 0;
   }
@@ -74,7 +74,7 @@ header.masthead {
 
 .page-section-smaller {
   padding: 4rem 0;
-  
+
   @media (max-width: 768px) {
     padding: 3rem 0;
   }
@@ -92,7 +92,7 @@ header.masthead {
   background: linear-gradient(135deg, var(--deep-forest) 0%, var(--midnight-blue) 50%, var(--dungeon-gray) 100%) !important;
   color: var(--parchment);
   position: relative;
-  
+
   &::before {
     content: '';
     position: absolute;
@@ -100,18 +100,18 @@ header.masthead {
     left: 0;
     right: 0;
     bottom: 0;
-    background: 
+    background:
       radial-gradient(circle at 10% 90%, rgba(212, 175, 55, 0.1) 0%, transparent 40%),
       radial-gradient(circle at 90% 10%, rgba(0, 255, 65, 0.05) 0%, transparent 40%);
     pointer-events: none;
   }
-  
+
   h2, h3, h4, h5, h6 {
     color: var(--parchment);
     position: relative;
     z-index: 1;
   }
-  
+
   .text-muted {
     color: rgba(244, 241, 232, 0.8) !important;
   }
@@ -121,7 +121,7 @@ header.masthead {
   background: linear-gradient(135deg, var(--midnight-blue) 0%, var(--mystery-purple) 50%, var(--dungeon-gray) 100%) !important;
   color: var(--parchment);
   position: relative;
-  
+
   &::before {
     content: '';
     position: absolute;
@@ -129,12 +129,12 @@ header.masthead {
     left: 0;
     right: 0;
     bottom: 0;
-    background: 
+    background:
       radial-gradient(circle at 20% 80%, rgba(212, 175, 55, 0.15) 0%, transparent 50%),
       radial-gradient(circle at 80% 20%, rgba(255, 176, 0, 0.1) 0%, transparent 50%);
     pointer-events: none;
   }
-  
+
   h2, h3, h4, h5, h6 {
     color: var(--parchment);
     position: relative;
@@ -152,7 +152,7 @@ hr.divider {
   height: 0.25rem;
   margin: 2rem auto;
   position: relative;
-  
+
   &::after {
     content: '◆';
     position: absolute;
@@ -181,16 +181,16 @@ hr.divider {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
-  box-shadow: 
+  box-shadow:
     0 4px 15px 0 rgba(15, 52, 96, 0.3),
     inset 0 1px 0 rgba(212, 175, 55, 0.2);
   transition: all 0.3s ease;
   color: var(--parchment);
   font-family: 'Georgia', 'Times New Roman', serif;
-  
+
   &:hover {
     transform: translateY(-2px);
-    box-shadow: 
+    box-shadow:
       0 6px 20px 0 rgba(15, 52, 96, 0.4),
       inset 0 1px 0 rgba(212, 175, 55, 0.3),
       0 0 15px rgba(212, 175, 55, 0.3);
@@ -198,7 +198,7 @@ hr.divider {
     border-color: var(--terminal-amber);
     color: var(--parchment);
   }
-  
+
   &:active {
     transform: translateY(0);
   }
@@ -214,11 +214,11 @@ hr.divider {
   background: linear-gradient(135deg, rgba(15, 52, 96, 0.95) 0%, rgba(22, 33, 62, 0.95) 100%);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  box-shadow: 
+  box-shadow:
     0 2px 20px rgba(0,0,0,0.3),
     inset 0 1px 0 rgba(212, 175, 55, 0.2);
   border-bottom: 2px solid var(--treasure-gold);
-  
+
   .navbar-brand {
     font-weight: 600;
     background: linear-gradient(135deg, var(--treasure-gold) 0%, var(--terminal-amber) 100%);
@@ -229,14 +229,14 @@ hr.divider {
     text-shadow: 0 0 10px rgba(212, 175, 55, 0.3);
     font-size: 1.2rem;
   }
-  
+
   .nav-link {
     font-weight: 500;
     color: var(--parchment) !important;
     transition: all 0.3s ease;
     position: relative;
     font-family: 'Georgia', 'Times New Roman', serif;
-    
+
     &::after {
       content: '';
       position: absolute;
@@ -247,11 +247,11 @@ hr.divider {
       background: var(--treasure-gold);
       transition: width 0.3s ease;
     }
-    
+
     &:hover {
       color: var(--treasure-gold) !important;
       text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);
-      
+
       &::after {
         width: 100%;
       }
@@ -264,14 +264,14 @@ hr.divider {
   background: linear-gradient(145deg, var(--parchment) 0%, var(--scroll-beige) 100%);
   border-radius: 15px;
   padding: 2rem 1.5rem;
-  box-shadow: 
+  box-shadow:
     0 10px 30px rgba(42, 42, 42, 0.2),
     inset 0 1px 0 rgba(212, 175, 55, 0.1);
   transition: all 0.3s ease;
   margin: 20px auto;
   border: 2px solid var(--ancient-bronze);
   position: relative;
-  
+
   &::before {
     content: '';
     position: absolute;
@@ -283,16 +283,16 @@ hr.divider {
     border-radius: 13px;
     pointer-events: none;
   }
-  
+
   &:hover {
     transform: translateY(-5px);
-    box-shadow: 
+    box-shadow:
       0 20px 40px rgba(42, 42, 42, 0.25),
       inset 0 1px 0 rgba(212, 175, 55, 0.2),
       0 0 20px rgba(212, 175, 55, 0.2);
     border-color: var(--treasure-gold);
   }
-  
+
   img {
     width: 120px;
     height: 120px;
@@ -316,7 +316,7 @@ hr.divider {
     margin-bottom: 0.5rem;
     position: relative;
     z-index: 1;
-    
+
     a {
       background: linear-gradient(135deg, var(--deep-forest) 0%, var(--mystery-purple) 100%);
       -webkit-background-clip: text;
@@ -326,7 +326,7 @@ hr.divider {
       font-family: 'Georgia', 'Times New Roman', serif;
       font-weight: 600;
       transition: all 0.3s ease;
-      
+
       &:hover {
         text-decoration: none;
         text-shadow: 0 0 10px rgba(15, 52, 96, 0.3);
@@ -337,7 +337,7 @@ hr.divider {
       }
     }
   }
-  
+
   p {
     color: var(--dungeon-gray) !important;
     position: relative;
@@ -353,7 +353,7 @@ ul {
     margin-bottom: 0.5rem;
     position: relative;
     padding-left: 1.5rem;
-    
+
     &::before {
       content: '⚔';
       position: absolute;
@@ -368,7 +368,7 @@ ul {
 // Enhanced list styling for adventure theme
 ul:not(.navbar-nav):not(.nav) {
   padding-left: 0;
-  
+
   li {
     margin-bottom: 0.75rem;
     position: relative;
@@ -376,7 +376,7 @@ ul:not(.navbar-nav):not(.nav) {
     list-style: none;
     color: var(--dungeon-gray);
     font-weight: 500;
-    
+
     &::before {
       content: '⚡';
       position: absolute;
@@ -387,12 +387,12 @@ ul:not(.navbar-nav):not(.nav) {
       text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);
       animation: glow 2s ease-in-out infinite alternate;
     }
-    
+
     &:nth-child(even)::before {
       content: '🗡';
       animation-delay: 0.5s;
     }
-    
+
     &:nth-child(3n)::before {
       content: '🏆';
       animation-delay: 1s;
@@ -420,7 +420,7 @@ p {
 a {
   color: #667eea;
   transition: color 0.3s ease;
-  
+
   &:hover {
     color: #764ba2;
     text-decoration: none;
@@ -433,7 +433,7 @@ a:not(.btn):not(.nav-link):not(.navbar-brand) {
   transition: all 0.3s ease;
   text-decoration: none;
   border-bottom: 1px solid transparent;
-  
+
   &:hover {
     color: #764ba2;
     border-bottom-color: #764ba2;
@@ -448,26 +448,26 @@ a:not(.btn):not(.nav-link):not(.navbar-brand) {
       font-size: 2rem !important;
       line-height: 1.2;
     }
-    
+
     p {
       font-size: 1rem !important;
     }
   }
-  
+
   .page-section {
     h2 {
       font-size: 1.8rem;
     }
   }
-  
+
   h2 {
     font-size: 1.8rem;
   }
-  
+
   h3 {
     font-size: 1.5rem;
   }
-  
+
   p {
     font-size: 0.95rem;
   }
@@ -500,7 +500,7 @@ footer {
   background: linear-gradient(135deg, var(--treasure-gold) 0%, var(--terminal-amber) 30%, var(--ancient-bronze) 100%) !important;
   color: var(--dungeon-gray);
   position: relative;
-  
+
   &::before {
     content: '';
     position: absolute;
@@ -508,27 +508,27 @@ footer {
     left: 0;
     right: 0;
     bottom: 0;
-    background: 
+    background:
       radial-gradient(circle at 15% 85%, rgba(15, 52, 96, 0.1) 0%, transparent 50%),
       radial-gradient(circle at 85% 15%, rgba(74, 20, 140, 0.1) 0%, transparent 50%),
       linear-gradient(45deg, rgba(255,255,255,0.1) 0%, transparent 100%);
     pointer-events: none;
   }
-  
+
   h2, h3, h4, h5, h6 {
     color: var(--dungeon-gray);
     position: relative;
     z-index: 1;
     text-shadow: 0 1px 2px rgba(255,255,255,0.3);
   }
-  
+
   p, li {
     color: var(--midnight-blue);
     position: relative;
     z-index: 1;
     font-weight: 600;
   }
-  
+
   strong {
     color: var(--deep-forest);
   }
@@ -538,7 +538,7 @@ footer {
   background: linear-gradient(135deg, var(--deep-forest) 0%, #1a5f3f 50%, var(--terminal-green) 100%) !important;
   color: var(--parchment);
   position: relative;
-  
+
   &::before {
     content: '';
     position: absolute;
@@ -546,26 +546,26 @@ footer {
     left: 0;
     right: 0;
     bottom: 0;
-    background: 
+    background:
       radial-gradient(circle at 20% 80%, rgba(212, 175, 55, 0.15) 0%, transparent 60%),
       radial-gradient(circle at 80% 20%, rgba(0, 255, 65, 0.1) 0%, transparent 60%),
       radial-gradient(circle at 50% 50%, rgba(255, 176, 0, 0.05) 0%, transparent 70%);
     pointer-events: none;
   }
-  
+
   h2, h3, h4, h5, h6 {
     color: var(--treasure-gold);
     position: relative;
     z-index: 1;
     text-shadow: 0 2px 4px rgba(0,0,0,0.3);
   }
-  
+
   p, li {
     color: var(--parchment);
     position: relative;
     z-index: 1;
   }
-  
+
   strong {
     color: var(--terminal-amber);
   }
@@ -575,7 +575,7 @@ footer {
   background: linear-gradient(135deg, var(--scroll-beige) 0%, #e8dcc0 50%, #d4c5a0 100%) !important;
   color: var(--dungeon-gray);
   position: relative;
-  
+
   &::before {
     content: '';
     position: absolute;
@@ -583,7 +583,7 @@ footer {
     left: 0;
     right: 0;
     bottom: 0;
-    background: 
+    background:
       radial-gradient(circle at 10% 90%, rgba(205, 127, 50, 0.2) 0%, transparent 40%),
       radial-gradient(circle at 90% 10%, rgba(212, 175, 55, 0.15) 0%, transparent 40%),
       repeating-linear-gradient(
@@ -594,20 +594,20 @@ footer {
       );
     pointer-events: none;
   }
-  
+
   h2, h3, h4, h5, h6 {
     color: var(--mystery-purple);
     position: relative;
     z-index: 1;
     text-shadow: 0 1px 2px rgba(212, 175, 55, 0.2);
   }
-  
+
   p, li {
     color: var(--dungeon-gray);
     position: relative;
     z-index: 1;
   }
-  
+
   strong {
     color: var(--deep-forest);
   }
@@ -617,7 +617,7 @@ footer {
   background: linear-gradient(135deg, var(--midnight-blue) 0%, #0a1929 50%, var(--dungeon-gray) 100%) !important;
   color: var(--parchment);
   position: relative;
-  
+
   &::before {
     content: '';
     position: absolute;
@@ -625,26 +625,26 @@ footer {
     left: 0;
     right: 0;
     bottom: 0;
-    background: 
+    background:
       radial-gradient(circle at 25% 75%, rgba(212, 175, 55, 0.1) 0%, transparent 50%),
       radial-gradient(circle at 75% 25%, rgba(74, 20, 140, 0.15) 0%, transparent 50%),
       radial-gradient(circle at 50% 50%, rgba(0, 255, 65, 0.03) 0%, transparent 80%);
     pointer-events: none;
   }
-  
+
   h2, h3, h4, h5, h6 {
     color: var(--treasure-gold);
     position: relative;
     z-index: 1;
     text-shadow: 0 2px 4px rgba(0,0,0,0.5), 0 0 10px rgba(212, 175, 55, 0.3);
   }
-  
+
   p, li {
     color: var(--parchment);
     position: relative;
     z-index: 1;
   }
-  
+
   strong {
     color: var(--terminal-amber);
   }
@@ -654,7 +654,7 @@ footer {
   background: linear-gradient(135deg, var(--mystical-violet) 0%, #3f006f 30%, var(--mystery-purple) 70%, var(--ethereal-blue) 100%) !important;
   color: var(--parchment);
   position: relative;
-  
+
   &::before {
     content: '';
     position: absolute;
@@ -662,7 +662,7 @@ footer {
     left: 0;
     right: 0;
     bottom: 0;
-    background: 
+    background:
       radial-gradient(circle at 15% 85%, rgba(192, 192, 192, 0.15) 0%, transparent 60%),
       radial-gradient(circle at 85% 15%, rgba(212, 175, 55, 0.1) 0%, transparent 50%),
       radial-gradient(circle at 50% 30%, rgba(106, 27, 154, 0.2) 0%, transparent 70%),
@@ -685,28 +685,28 @@ footer {
       );
     pointer-events: none;
   }
-  
+
   h2, h3, h4, h5, h6 {
     color: var(--rune-silver);
     position: relative;
     z-index: 1;
     text-shadow: 0 2px 4px rgba(0,0,0,0.6), 0 0 15px rgba(192, 192, 192, 0.4);
   }
-  
+
   p, li {
     color: var(--parchment);
     position: relative;
     z-index: 1;
   }
-  
+
   strong {
     color: var(--treasure-gold);
   }
-  
+
   a {
     color: var(--rune-silver);
     text-decoration: underline;
-    
+
     &:hover {
       color: var(--treasure-gold);
       text-shadow: 0 0 8px rgba(212, 175, 55, 0.5);
@@ -743,4 +743,36 @@ footer {
   background: var(--mystical-violet);
   color: var(--rune-silver);
   border-color: var(--mystical-violet);
+}
+
+// Footnote styling - make text white
+.footnotes {
+  color: white !important;
+  font-size: 0.9em;
+  margin-top: 2rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+
+  ol {
+    color: white !important;
+  }
+
+  p {
+    color: white !important;
+  }
+
+  a {
+    color: rgba(255, 255, 255, 0.8);
+
+    &:hover {
+      color: white;
+    }
+  }
+}
+
+// Footnote reference styling
+a[href^="#fn:"],
+.footnote,
+sup {
+  color: white !important;
 }

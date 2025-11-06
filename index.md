@@ -50,7 +50,7 @@ sections:
   #   background_style: bg-mystic-forest
   #   text: >+
 
-  #     **Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay) 
+  #     **Submission website:** [OpenReview](https://openreview.net/group?id=EMNLP/2025/Workshop/Wordplay)
 
   #     **Submission deadline:** ~~August 29, 2025~~ September 12, 2025, 23:59 (Anywhere On Earth)
 
@@ -70,7 +70,7 @@ sections:
 
   #     **CPDC track:**
 
-  #     We also welcome participants of [the Common-sense Persona-Grounded Dialogue Challenge (CPDC) competition](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025) to submit technical reports to describe their submitted systems. 
+  #     We also welcome participants of [the Common-sense Persona-Grounded Dialogue Challenge (CPDC) competition](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025) to submit technical reports to describe their submitted systems.
 
   #     **Requirements:**
   #     - Papers should be ranging between **4-8** pages in length (and unlimited pages for references and supplementary materials), formatted according to [the ACL style](https://acl-org.github.io/ACLPUB/formatting.html). Submissions should be in **.pdf** format.
@@ -210,7 +210,7 @@ sections:
 
         * [GenQuest: An LLM-based Text Adventure Game for Language Learners](https://wordplay-workshop.github.io/pdfs/22.pdf)
 
-        * [BaZi-Based Character Simulation Benchmark: Evaluating AI on Temporal and Persona Reasoning](https://wordplay-workshop.github.io/pdfs/23.pdf)
+        * [BaZi-Based Character Simulation Benchmark: Evaluating AI on Temporal and Persona Reasoning](https://wordplay-workshop.github.io/pdfs/23.pdf)[*](#fn:1)
 
         * [Inference-Time Value Alignment in Offline Reinforcement Learning: Leveraging LLMs for Reward and Ethical Guidance](https://wordplay-workshop.github.io/pdfs/24.pdf)
 
@@ -242,6 +242,9 @@ sections:
 
         * [Shall We Play a Game? Language Models for Open-ended Wargames](https://wordplay-workshop.github.io/pdfs/41.pdf)
 
+      - >+
+        *Neither EMNLP nor the Wordplay Workshop is backing the metaphysics concepts; we see value of the work under the context of game generation and storytelling.
+
 
   - type: paragraph.html
     section_id: shared_task
@@ -249,9 +252,9 @@ sections:
     background_style: bg-treasure-vault
     text: >+
 
-      **Shared task: Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025** 
+      **Shared task: Common-sense Persona-Grounded Dialogue Challenge (CPDC) 2025**
 
-      * Total prize value: USD 20,000!!! 
+      * Total prize value: USD 20,000!!!
 
       * [Official website](https://www.aicrowd.com/challenges/commonsense-persona-grounded-dialogue-challenge-2025) *
 
